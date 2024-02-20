@@ -1,0 +1,861 @@
+2024-02-13 14:40:39,713 - Log -INFO - ******Chrome browser opened successfully******
+2024-02-13 14:40:40,940 - Log -INFO - Test Run
+2024-02-13 14:40:41,568 - Log -INFO - ******Broswer closed successfully******
+2024-02-13 14:44:06,501 - Log -INFO - ******Chrome browser opened successfully******
+2024-02-13 14:44:07,596 - Log -INFO - Test Run
+2024-02-13 14:44:08,019 - Log -INFO - ******Broswer closed successfully******
+2024-02-13 15:01:10,137 - Log -INFO - ******Chrome browser opened successfully******
+2024-02-13 15:01:11,261 - Log -INFO - The expected login page text is: LOGIN Panel
+2024-02-13 15:01:11,342 - Log -INFO - The actual login page text is: LOGIN Panel
+2024-02-13 15:01:11,860 - Log -INFO - ******Broswer closed successfully******
+2024-02-13 15:05:39,077 - Log -INFO - ******Chrome browser opened successfully******
+2024-02-13 15:05:40,622 - Log -INFO - ******Broswer closed successfully******
+2024-02-13 15:07:39,861 - Log -INFO - ******Chrome browser opened successfully******
+2024-02-13 15:07:42,005 - Log -INFO - ******Broswer closed successfully******
+2024-02-13 15:17:46,030 - Log -INFO - The expected login page text is: LOGIN Panel
+2024-02-13 15:20:38,651 - Log -INFO - The expected login page text is: LOGIN Panel
+2024-02-13 15:21:06,788 - Log -INFO - The expected login page text is: LOGIN Panel
+2024-02-13 15:26:38,854 - Log -INFO - The expected login page text is: LOGIN Panel
+2024-02-13 15:27:34,058 - Log -INFO - ******Chrome browser opened successfully******
+2024-02-13 15:27:34,860 - Log -INFO - The expected login page text is: LOGIN Panel
+2024-02-13 15:27:35,331 - Log -INFO - ******Broswer closed successfully******
+2024-02-13 15:28:33,973 - Log -INFO - ******Chrome browser opened successfully******
+2024-02-13 15:28:34,934 - Log -INFO - The expected login page text is: LOGIN Panel
+2024-02-13 15:28:35,399 - Log -INFO - ******Broswer closed successfully******
+2024-02-13 15:32:33,377 - Log -INFO - ******Chrome browser opened successfully******
+2024-02-13 15:32:34,463 - Log -INFO - The expected login page text is: LOGIN Panel
+2024-02-13 15:32:35,051 - Log -INFO - ******Broswer closed successfully******
+2024-02-13 15:33:15,884 - Log -INFO - ******Chrome browser opened successfully******
+2024-02-13 15:33:17,008 - Log -INFO - The expected login page text is: LOGIN Panel
+2024-02-13 15:33:17,588 - Log -INFO - ******Broswer closed successfully******
+2024-02-13 15:46:02,641 - Log -INFO - ******Chrome browser opened successfully******
+2024-02-13 15:46:03,809 - Log -INFO - The expected login page text is: LOGIN Panel
+2024-02-13 15:46:04,413 - Log -INFO - ******Broswer closed successfully******
+2024-02-13 15:51:27,472 - Log -INFO - ******Chrome browser opened successfully******
+2024-02-13 15:51:28,598 - Log -INFO - The expected login page text is: LOGIN Panel
+2024-02-13 15:51:28,776 - Log -INFO - The actual login page text is: LOGIN Panel
+2024-02-13 15:51:28,789 - Log -INFO - Successfully navigated to Login Page: PASS
+2024-02-13 15:51:29,422 - Log -INFO - ******Broswer closed successfully******
+2024-02-13 16:27:28,997 - Log -INFO - ******Chrome browser opened successfully******
+2024-02-13 16:27:30,132 - Log -INFO - The expected login page text is: LOGIN Panel
+2024-02-13 16:27:30,215 - Log -INFO - The actual login page text is: LOGIN Panel
+2024-02-13 16:27:30,228 - Log -INFO - Successfully navigated to Login Page: PASS
+2024-02-13 16:27:32,776 - Log -INFO - The expected home page text is: Dashboard
+2024-02-13 16:27:32,876 - Log -INFO - The actual home page text is: Dashboard
+2024-02-13 16:27:32,892 - Log -INFO - Successfully Navigated to Home Page: PASS
+2024-02-13 16:27:33,848 - Log -INFO - ******Broswer closed successfully******
+2024-02-13 16:30:30,512 - Log -INFO - ******Chrome browser opened successfully******
+2024-02-13 16:30:31,427 - Log -INFO - The expected login page text is: LOGIN Panel
+2024-02-13 16:30:31,712 - Log -INFO - The actual login page text is: LOGIN Panel
+2024-02-13 16:30:31,726 - Log -INFO - Successfully navigated to Login Page: PASS
+2024-02-13 16:30:33,995 - Log -INFO - The expected home page text is: Dashboard
+2024-02-13 16:30:34,066 - Log -INFO - The actual home page text is: Dashboard
+2024-02-13 16:30:34,083 - Log -INFO - Successfully Navigated to Home Page: PASS
+2024-02-13 16:30:36,072 - Log -INFO - ******Broswer closed successfully******
+2024-02-14 10:29:52,772 - Log -INFO - ******Chrome browser opened successfully******
+2024-02-14 10:29:54,777 - Log -INFO - The expected login page text is: LOGIN Panel
+2024-02-14 10:29:54,954 - Log -INFO - The actual login page text is: LOGIN Panel
+2024-02-14 10:29:54,972 - Log -INFO - Successfully navigated to Login Page: PASS
+2024-02-14 10:29:58,595 - Log -INFO - The expected home page text is: Dashboard
+2024-02-14 10:29:58,669 - Log -INFO - The actual home page text is: Dashboard
+2024-02-14 10:29:58,687 - Log -INFO - Successfully Navigated to Home Page: PASS
+2024-02-14 10:30:01,223 - Log -INFO - ******Broswer closed successfully******
+2024-02-14 16:17:53,484 - Log -INFO - The expected login page text is: LOGIN Panel
+2024-02-14 16:17:53,787 - Log -INFO - The actual login page text is: LOGIN Panel
+2024-02-14 16:17:53,812 - Log -INFO - Successfully navigated to Login Page: PASS
+2024-02-14 16:17:56,977 - Log -INFO - The expected home page text is: Dashboard
+2024-02-14 16:17:57,161 - Log -INFO - The actual home page text is: Dashboard
+2024-02-14 16:17:57,177 - Log -INFO - Successfully Navigated to Home Page: PASS
+2024-02-14 19:42:56,090 - Log -INFO - The expected login page text is: LOGIN Panel
+2024-02-14 19:42:56,476 - Log -INFO - The actual login page text is: LOGIN Panel
+2024-02-14 19:42:56,493 - Log -INFO - Successfully navigated to Login Page: PASS
+2024-02-14 19:42:59,915 - Log -INFO - The expected home page text is: Dashboard
+2024-02-14 19:43:00,019 - Log -INFO - The actual home page text is: Dashboard
+2024-02-14 19:43:00,041 - Log -INFO - Successfully Navigated to Home Page: PASS
+2024-02-14 19:58:35,543 - Log -INFO - Failed to navigated to home page: FAIL
+2024-02-14 19:58:35,588 - Log -INFO - The expected text of personal details page is: Personal Details
+2024-02-14 20:01:58,800 - Log -INFO - Failed to navigated to home page: FAIL
+2024-02-14 20:04:16,942 - Log -INFO - The expected login page text is: LOGIN Panel
+2024-02-14 20:04:17,032 - Log -INFO - The actual login page text is: LOGIN Panel
+2024-02-14 20:04:17,053 - Log -INFO - Successfully navigated to Login Page: PASS
+2024-02-14 20:04:20,016 - Log -INFO - The expected home page text is: Dashboard
+2024-02-14 20:04:20,276 - Log -INFO - The actual home page text is: Dashboard
+2024-02-14 20:04:20,297 - Log -INFO - Successfully Navigated to Home Page: PASS
+2024-02-14 20:16:10,977 - Log -INFO - The expected home page text is: Dashboard
+2024-02-14 20:16:11,076 - Log -INFO - The actual home page text is: Dashboard
+2024-02-14 20:16:11,096 - Log -INFO - Successfully Navigated to Home Page: PASS
+2024-02-14 20:16:31,294 - Log -INFO - The expected text of personal details page is: Personal Details
+2024-02-15 05:11:18,603 - Log -INFO - The expected login page text is: LOGIN Panel
+2024-02-15 05:11:18,978 - Log -INFO - The actual login page text is: LOGIN Panel
+2024-02-15 05:11:18,996 - Log -INFO - Successfully navigated to Login Page: PASS
+2024-02-15 05:11:22,928 - Log -INFO - The expected home page text is: Dashboard
+2024-02-15 05:11:23,012 - Log -INFO - The actual home page text is: Dashboard
+2024-02-15 05:11:23,030 - Log -INFO - Successfully Navigated to Home Page: PASS
+2024-02-15 05:26:36,800 - Log -INFO - The expected home page text is: Dashboard
+2024-02-15 05:26:37,098 - Log -INFO - The actual home page text is: Dashboard
+2024-02-15 05:26:37,119 - Log -INFO - Successfully Navigated to Home Page: PASS
+2024-02-15 05:26:37,152 - Log -INFO - The expected text of personal details page is: Personal Details
+2024-02-15 05:27:33,498 - Log -INFO - The expected home page text is: Dashboard
+2024-02-15 05:27:33,617 - Log -INFO - The actual home page text is: Dashboard
+2024-02-15 05:27:33,637 - Log -INFO - Successfully Navigated to Home Page: PASS
+2024-02-15 05:29:28,090 - Log -INFO - The expected home page text is: Dashboard
+2024-02-15 05:29:28,265 - Log -INFO - The actual home page text is: Dashboard
+2024-02-15 05:29:28,284 - Log -INFO - Successfully Navigated to Home Page: PASS
+2024-02-15 05:29:28,341 - Log -INFO - The expected text of personal details page is: Personal Details
+2024-02-15 05:30:33,537 - Log -INFO - The expected home page text is: Dashboard
+2024-02-15 05:30:33,634 - Log -INFO - The actual home page text is: Dashboard
+2024-02-15 05:30:33,653 - Log -INFO - Successfully Navigated to Home Page: PASS
+2024-02-15 05:33:26,702 - Log -INFO - The expected home page text is: Dashboard
+2024-02-15 05:33:26,842 - Log -INFO - The actual home page text is: Dashboard
+2024-02-15 05:33:26,862 - Log -INFO - Successfully Navigated to Home Page: PASS
+2024-02-15 05:34:04,176 - Log -INFO - The expected home page text is: Dashboard
+2024-02-15 05:34:04,310 - Log -INFO - The actual home page text is: Dashboard
+2024-02-15 05:34:04,330 - Log -INFO - Successfully Navigated to Home Page: PASS
+2024-02-15 05:36:26,188 - Log -INFO - The expected home page text is: Dashboard
+2024-02-15 05:36:26,402 - Log -INFO - The actual home page text is: Dashboard
+2024-02-15 05:36:26,420 - Log -INFO - Successfully Navigated to Home Page: PASS
+2024-02-15 05:52:08,844 - Log -INFO - The expected home page text is: Dashboard
+2024-02-15 05:52:08,949 - Log -INFO - The actual home page text is: Dashboard
+2024-02-15 05:52:08,971 - Log -INFO - Successfully Navigated to Home Page: PASS
+2024-02-15 05:54:26,542 - Log -INFO - The expected home page text is: Dashboard
+2024-02-15 05:54:26,680 - Log -INFO - The actual home page text is: Dashboard
+2024-02-15 05:54:26,701 - Log -INFO - Successfully Navigated to Home Page: PASS
+2024-02-15 05:57:14,493 - Log -INFO - The expected home page text is: Dashboard
+2024-02-15 05:57:14,599 - Log -INFO - The actual home page text is: Dashboard
+2024-02-15 05:57:14,619 - Log -INFO - Successfully Navigated to Home Page: PASS
+2024-02-15 05:59:01,528 - Log -INFO - The expected home page text is: Dashboard
+2024-02-15 05:59:01,714 - Log -INFO - The actual home page text is: Dashboard
+2024-02-15 05:59:01,738 - Log -INFO - Successfully Navigated to Home Page: PASS
+2024-02-15 06:00:34,873 - Log -INFO - The expected home page text is: Dashboard
+2024-02-15 06:00:35,105 - Log -INFO - The actual home page text is: Dashboard
+2024-02-15 06:00:35,125 - Log -INFO - Successfully Navigated to Home Page: PASS
+2024-02-15 06:04:00,538 - Log -INFO - The expected home page text is: Dashboard
+2024-02-15 06:04:00,755 - Log -INFO - The actual home page text is: Dashboard
+2024-02-15 06:04:00,774 - Log -INFO - Successfully Navigated to Home Page: PASS
+2024-02-15 06:05:12,675 - Log -INFO - The expected home page text is: Dashboard
+2024-02-15 06:05:12,859 - Log -INFO - The actual home page text is: Dashboard
+2024-02-15 06:05:12,879 - Log -INFO - Successfully Navigated to Home Page: PASS
+2024-02-15 06:05:27,190 - Log -INFO - The employee is: 0129
+2024-02-15 06:07:14,527 - Log -INFO - The expected home page text is: Dashboard
+2024-02-15 06:07:14,743 - Log -INFO - The actual home page text is: Dashboard
+2024-02-15 06:07:14,765 - Log -INFO - Successfully Navigated to Home Page: PASS
+2024-02-15 06:07:28,650 - Log -INFO - The employee is: 0130
+2024-02-15 06:07:54,284 - Log -INFO - The expected text of personal details page is: Personal Details
+2024-02-15 06:07:54,450 - Log -INFO - The actual text of personal details page is: Personal Details
+2024-02-15 06:07:54,472 - Log -INFO - Successfully Navigated to personal details page: PASS
+2024-02-15 06:13:58,353 - Log -INFO - Login functionality successfull
+2024-02-15 06:13:58,815 - Log -INFO - The expected home page text is: Dashboard
+2024-02-15 06:13:59,055 - Log -INFO - The actual home page text is: Dashboard
+2024-02-15 06:13:59,076 - Log -INFO - Successfully Navigated to Home Page: PASS
+2024-02-15 06:13:59,096 - Log -INFO - Home page validation successfull
+2024-02-15 06:13:59,354 - Log -INFO -  PIM menu validation successfull
+2024-02-15 06:14:00,645 - Log -INFO - AddEmployee validation successfull
+2024-02-15 06:14:13,436 - Log -INFO - The employee is: 0131
+2024-02-15 06:14:39,359 - Log -INFO - Adding new employee successfull
+2024-02-15 06:14:39,385 - Log -INFO - The expected text of personal details page is: Personal Details
+2024-02-15 06:14:39,447 - Log -INFO - The actual text of personal details page is: Personal Details
+2024-02-15 06:14:39,468 - Log -INFO - Successfully Navigated to personal details page: PASS
+2024-02-15 06:14:39,487 - Log -INFO - Personal details page validation page successfull
+2024-02-15 06:17:11,239 - Log -INFO - Login functionality successful
+2024-02-15 06:17:11,319 - Log -INFO - The expected home page text is: Dashboard
+2024-02-15 06:17:11,415 - Log -INFO - The actual home page text is: Dashboard
+2024-02-15 06:17:11,436 - Log -INFO - Successfully Navigated to Home Page: PASS
+2024-02-15 06:17:11,461 - Log -INFO - Home page validation successful
+2024-02-15 06:17:11,727 - Log -INFO -  PIM menu validation successful
+2024-02-15 06:17:13,001 - Log -INFO - AddEmployee validation successful
+2024-02-15 06:17:25,792 - Log -INFO - The employee is: 0132
+2024-02-15 06:17:53,449 - Log -INFO - Adding new employee successful
+2024-02-15 06:17:53,486 - Log -INFO - The expected text of personal details page is: Personal Details
+2024-02-15 06:17:53,583 - Log -INFO - The actual text of personal details page is: Personal Details
+2024-02-15 06:17:53,604 - Log -INFO - Successfully Navigated to personal details page: PASS
+2024-02-15 06:17:53,635 - Log -INFO - Personal details page validation page successful
+2024-02-15 06:29:44,266 - Log -INFO - The expected login page text is: LOGIN Panel
+2024-02-15 06:29:44,375 - Log -INFO - The actual login page text is: LOGIN Panel
+2024-02-15 06:29:44,399 - Log -INFO - Successfully navigated to Login Page: PASS
+2024-02-15 06:29:47,630 - Log -INFO - The expected home page text is: Dashboard
+2024-02-15 06:29:47,707 - Log -INFO - The actual home page text is: Dashboard
+2024-02-15 06:29:47,727 - Log -INFO - Successfully Navigated to Home Page: PASS
+2024-02-15 06:32:48,226 - Log -INFO - The expected login page text is: LOGIN Panel
+2024-02-15 06:32:48,311 - Log -INFO - The actual login page text is: LOGIN Panel
+2024-02-15 06:32:48,328 - Log -INFO - Successfully navigated to Login Page: PASS
+2024-02-15 06:32:51,057 - Log -INFO - The expected home page text is: Dashboard
+2024-02-15 06:32:51,202 - Log -INFO - The actual home page text is: Dashboard
+2024-02-15 06:32:51,224 - Log -INFO - Successfully Navigated to Home Page: PASS
+2024-02-15 06:33:01,137 - Log -INFO - Login functionality successful
+2024-02-15 06:33:01,258 - Log -INFO - The expected home page text is: Dashboard
+2024-02-15 06:33:01,410 - Log -INFO - The actual home page text is: Dashboard
+2024-02-15 06:33:01,433 - Log -INFO - Successfully Navigated to Home Page: PASS
+2024-02-15 06:33:01,451 - Log -INFO - Home page validation successful
+2024-02-15 06:33:01,789 - Log -INFO -  PIM menu validation successful
+2024-02-15 06:33:02,978 - Log -INFO - AddEmployee validation successful
+2024-02-15 06:33:15,519 - Log -INFO - The employee is: 0133
+2024-02-15 06:33:40,497 - Log -INFO - Adding new employee successful
+2024-02-15 06:33:40,518 - Log -INFO - The expected text of personal details page is: Personal Details
+2024-02-15 06:33:40,571 - Log -INFO - The actual text of personal details page is: Personal Details
+2024-02-15 06:33:40,585 - Log -INFO - Successfully Navigated to personal details page: PASS
+2024-02-15 06:33:40,600 - Log -INFO - Personal details page validation page successful
+2024-02-15 06:34:44,291 - Log -INFO - Failed to navigated to home page: FAIL
+2024-02-15 06:34:44,296 - Log -INFO - The expected login page text is: LOGIN Panel
+2024-02-15 06:34:44,328 - Log -INFO - Home page validation successful
+2024-02-15 06:34:44,441 - Log -INFO - Failed to navigated to home page: FAIL
+2024-02-15 06:35:04,960 - Log -INFO - The expected text of personal details page is: Personal Details
+2024-02-15 06:35:53,959 - Log -INFO - The expected login page text is: LOGIN Panel
+2024-02-15 06:35:54,129 - Log -INFO - The actual login page text is: LOGIN Panel
+2024-02-15 06:35:54,152 - Log -INFO - Successfully navigated to Login Page: PASS
+2024-02-15 06:35:55,205 - Log -INFO - Login functionality successful
+2024-02-15 06:35:55,320 - Log -INFO - Failed to navigated to home page: FAIL
+2024-02-15 06:35:55,339 - Log -INFO - Home page validation successful
+2024-02-15 06:36:15,506 - Log -INFO - Failed to navigated to home page: FAIL
+2024-02-15 06:36:16,077 - Log -INFO - The expected text of personal details page is: Personal Details
+2024-02-15 06:37:26,333 - Log -INFO - The expected login page text is: LOGIN Panel
+2024-02-15 06:37:26,424 - Log -INFO - The actual login page text is: LOGIN Panel
+2024-02-15 06:37:26,443 - Log -INFO - Successfully navigated to Login Page: PASS
+2024-02-15 06:37:29,364 - Log -INFO - The expected home page text is: Dashboard
+2024-02-15 06:37:29,449 - Log -INFO - The actual home page text is: Dashboard
+2024-02-15 06:37:29,470 - Log -INFO - Successfully Navigated to Home Page: PASS
+2024-02-15 06:38:19,268 - Log -INFO - Login functionality successful
+2024-02-15 06:38:19,343 - Log -INFO - The expected home page text is: Dashboard
+2024-02-15 06:38:19,454 - Log -INFO - The actual home page text is: Dashboard
+2024-02-15 06:38:19,477 - Log -INFO - Successfully Navigated to Home Page: PASS
+2024-02-15 06:38:19,508 - Log -INFO - Home page validation successful
+2024-02-15 06:38:19,780 - Log -INFO -  PIM menu validation successful
+2024-02-15 06:38:20,850 - Log -INFO - AddEmployee validation successful
+2024-02-15 06:38:33,581 - Log -INFO - The employee is: 0134
+2024-02-15 06:38:58,803 - Log -INFO - Adding new employee successful
+2024-02-15 06:38:58,839 - Log -INFO - The expected text of personal details page is: Personal Details
+2024-02-15 06:38:58,910 - Log -INFO - The actual text of personal details page is: Personal Details
+2024-02-15 06:38:58,933 - Log -INFO - Successfully Navigated to personal details page: PASS
+2024-02-15 06:38:58,951 - Log -INFO - Personal details page validation page successful
+2024-02-15 06:42:35,717 - Log -INFO - The expected login page text is: LOGIN Panel
+2024-02-15 06:42:35,828 - Log -INFO - The actual login page text is: LOGIN Panel
+2024-02-15 06:42:35,854 - Log -INFO - Successfully navigated to Login Page: PASS
+2024-02-15 06:42:38,966 - Log -INFO - The expected home page text is: Dashboard
+2024-02-15 06:42:39,280 - Log -INFO - The actual home page text is: Dashboard
+2024-02-15 06:42:39,308 - Log -INFO - Successfully Navigated to Home Page: PASS
+2024-02-15 06:42:48,521 - Log -INFO - Login functionality successful
+2024-02-15 06:42:48,570 - Log -INFO - The expected home page text is: Dashboard
+2024-02-15 06:42:48,671 - Log -INFO - The actual home page text is: Dashboard
+2024-02-15 06:42:48,716 - Log -INFO - Successfully Navigated to Home Page: PASS
+2024-02-15 06:42:48,741 - Log -INFO - Home page validation successful
+2024-02-15 06:42:48,990 - Log -INFO -  PIM menu validation successful
+2024-02-15 06:42:50,444 - Log -INFO - AddEmployee validation successful
+2024-02-15 06:42:50,832 - Log -INFO - The employee is: 0135
+2024-02-15 06:42:58,066 - Log -INFO - Adding new employee successful
+2024-02-15 06:42:58,104 - Log -INFO - The expected text of personal details page is: Personal Details
+2024-02-15 06:42:58,222 - Log -INFO - The actual text of personal details page is: Personal Details
+2024-02-15 06:42:58,244 - Log -INFO - Successfully Navigated to personal details page: PASS
+2024-02-15 06:42:58,267 - Log -INFO - Personal details page validation page successful
+2024-02-15 06:43:35,635 - Log -INFO - The expected login page text is: LOGIN Panel
+2024-02-15 06:43:35,838 - Log -INFO - The actual login page text is: LOGIN Panel
+2024-02-15 06:43:35,862 - Log -INFO - Successfully navigated to Login Page: PASS
+2024-02-15 06:43:38,335 - Log -INFO - Login functionality successful
+2024-02-15 06:43:58,464 - Log -INFO - The expected home page text is: Dashboard
+2024-02-15 06:43:58,534 - Log -INFO - The expected home page text is: Dashboard
+2024-02-15 06:43:58,586 - Log -INFO - The actual home page text is: Dashboard
+2024-02-15 06:43:58,611 - Log -INFO - Successfully Navigated to Home Page: PASS
+2024-02-15 06:43:58,645 - Log -INFO - Home page validation successful
+2024-02-15 06:43:58,686 - Log -INFO - The actual home page text is: Dashboard
+2024-02-15 06:43:58,713 - Log -INFO - Successfully Navigated to Home Page: PASS
+2024-02-15 06:43:58,964 - Log -INFO -  PIM menu validation successful
+2024-02-15 06:44:40,499 - Log -INFO - The expected text of personal details page is: Personal Details
+2024-02-15 06:45:16,293 - Log -INFO - The expected login page text is: LOGIN Panel
+2024-02-15 06:45:16,520 - Log -INFO - The actual login page text is: LOGIN Panel
+2024-02-15 06:45:16,548 - Log -INFO - Successfully navigated to Login Page: PASS
+2024-02-15 06:45:19,619 - Log -INFO - Login functionality successful
+2024-02-15 06:45:39,805 - Log -INFO - The expected home page text is: Dashboard
+2024-02-15 06:45:39,819 - Log -INFO - The expected home page text is: Dashboard
+2024-02-15 06:45:39,894 - Log -INFO - The actual home page text is: Dashboard
+2024-02-15 06:45:39,907 - Log -INFO - The actual home page text is: Dashboard
+2024-02-15 06:45:39,931 - Log -INFO - Successfully Navigated to Home Page: PASS
+2024-02-15 06:45:39,941 - Log -INFO - Successfully Navigated to Home Page: PASS
+2024-02-15 06:45:39,969 - Log -INFO - Home page validation successful
+2024-02-15 06:45:40,358 - Log -INFO -  PIM menu validation successful
+2024-02-15 06:45:42,049 - Log -INFO - The expected text of personal details page is: Personal Details
+2024-02-15 06:46:11,156 - Log -INFO - The expected login page text is: LOGIN Panel
+2024-02-15 06:46:11,271 - Log -INFO - The actual login page text is: LOGIN Panel
+2024-02-15 06:46:11,298 - Log -INFO - Successfully navigated to Login Page: PASS
+2024-02-15 06:46:13,954 - Log -INFO - The expected home page text is: Dashboard
+2024-02-15 06:46:14,158 - Log -INFO - The actual home page text is: Dashboard
+2024-02-15 06:46:14,196 - Log -INFO - Successfully Navigated to Home Page: PASS
+2024-02-15 06:46:22,948 - Log -INFO - Login functionality successful
+2024-02-15 06:46:23,215 - Log -INFO - The expected home page text is: Dashboard
+2024-02-15 06:46:23,392 - Log -INFO - The actual home page text is: Dashboard
+2024-02-15 06:46:23,412 - Log -INFO - Successfully Navigated to Home Page: PASS
+2024-02-15 06:46:23,433 - Log -INFO - Home page validation successful
+2024-02-15 06:46:23,694 - Log -INFO -  PIM menu validation successful
+2024-02-15 06:46:25,044 - Log -INFO - AddEmployee validation successful
+2024-02-15 06:46:25,457 - Log -INFO - The employee is: 0136
+2024-02-15 06:46:32,417 - Log -INFO - Adding new employee successful
+2024-02-15 06:46:32,447 - Log -INFO - The expected text of personal details page is: Personal Details
+2024-02-15 06:46:32,509 - Log -INFO - The actual text of personal details page is: Personal Details
+2024-02-15 06:46:32,530 - Log -INFO - Successfully Navigated to personal details page: PASS
+2024-02-15 06:46:32,559 - Log -INFO - Personal details page validation page successful
+2024-02-15 13:26:08,705 - Log -INFO - The expected login page text is: LOGIN Panel
+2024-02-15 13:26:09,316 - Log -INFO - The actual login page text is: LOGIN Panel
+2024-02-15 13:26:09,371 - Log -INFO - Successfully navigated to Login Page: PASS
+2024-02-15 13:26:12,905 - Log -INFO - The expected home page text is: Dashboard
+2024-02-15 13:26:12,985 - Log -INFO - The actual home page text is: Dashboard
+2024-02-15 13:26:13,017 - Log -INFO - Successfully Navigated to Home Page: PASS
+2024-02-15 13:26:22,787 - Log -INFO - Login functionality successful
+2024-02-15 13:26:22,878 - Log -INFO - The expected home page text is: Dashboard
+2024-02-15 13:26:23,109 - Log -INFO - The actual home page text is: Dashboard
+2024-02-15 13:26:23,133 - Log -INFO - Successfully Navigated to Home Page: PASS
+2024-02-15 13:26:23,181 - Log -INFO - Home page validation successful
+2024-02-15 13:26:23,531 - Log -INFO -  PIM menu validation successful
+2024-02-15 13:26:24,582 - Log -INFO - AddEmployee validation successful
+2024-02-15 13:26:25,147 - Log -INFO - The employee is: 0137
+2024-02-15 13:26:33,632 - Log -INFO - Adding new employee successful
+2024-02-15 13:26:33,697 - Log -INFO - The expected text of personal details page is: Personal Details
+2024-02-15 13:26:33,792 - Log -INFO - The actual text of personal details page is: Personal Details
+2024-02-15 13:26:33,811 - Log -INFO - Successfully Navigated to personal details page: PASS
+2024-02-15 13:26:33,828 - Log -INFO - Personal details page validation page successful
+2024-02-15 13:28:03,358 - Log -INFO - The expected login page text is: LOGIN Panel
+2024-02-15 13:28:03,483 - Log -INFO - The actual login page text is: LOGIN Panel
+2024-02-15 13:28:03,516 - Log -INFO - Successfully navigated to Login Page: PASS
+2024-02-15 13:28:06,546 - Log -INFO - The expected home page text is: Dashboard
+2024-02-15 13:28:06,638 - Log -INFO - The actual home page text is: Dashboard
+2024-02-15 13:28:06,667 - Log -INFO - Successfully Navigated to Home Page: PASS
+2024-02-15 13:28:28,472 - Log -INFO - Login functionality successful
+2024-02-15 13:28:28,578 - Log -INFO - The expected home page text is: Dashboard
+2024-02-15 13:28:28,808 - Log -INFO - The actual home page text is: Dashboard
+2024-02-15 13:28:28,838 - Log -INFO - Successfully Navigated to Home Page: PASS
+2024-02-15 13:28:28,871 - Log -INFO - Home page validation successful
+2024-02-15 13:28:29,225 - Log -INFO -  PIM menu validation successful
+2024-02-15 13:28:30,245 - Log -INFO - AddEmployee validation successful
+2024-02-15 13:28:30,664 - Log -INFO - The employee is: 0138
+2024-02-15 13:28:37,972 - Log -INFO - Adding new employee successful
+2024-02-15 13:28:38,004 - Log -INFO - The expected text of personal details page is: Personal Details
+2024-02-15 13:28:38,067 - Log -INFO - The actual text of personal details page is: Personal Details
+2024-02-15 13:28:38,085 - Log -INFO - Successfully Navigated to personal details page: PASS
+2024-02-15 13:28:38,118 - Log -INFO - Personal details page validation page successful
+2024-02-15 13:30:48,128 - Log -INFO - Login functionality successful
+2024-02-15 13:30:48,276 - Log -INFO - The expected home page text is: Dashboard
+2024-02-15 13:30:48,379 - Log -INFO - The actual home page text is: Dashboard
+2024-02-15 13:30:48,407 - Log -INFO - Successfully Navigated to Home Page: PASS
+2024-02-15 13:30:48,438 - Log -INFO - Home page validation successful
+2024-02-15 13:30:48,683 - Log -INFO -  PIM menu validation successful
+2024-02-15 13:30:49,621 - Log -INFO - AddEmployee validation successful
+2024-02-15 13:30:50,091 - Log -INFO - The employee is: 0139
+2024-02-15 13:30:57,520 - Log -INFO - Adding new employee successful
+2024-02-15 13:30:57,554 - Log -INFO - The expected text of personal details page is: Personal Details
+2024-02-15 13:30:57,665 - Log -INFO - The actual text of personal details page is: Personal Details
+2024-02-15 13:30:57,690 - Log -INFO - Successfully Navigated to personal details page: PASS
+2024-02-15 13:30:57,718 - Log -INFO - Personal details page validation page successful
+2024-02-15 13:33:20,785 - Log -INFO - Login functionality successful
+2024-02-15 13:33:20,875 - Log -INFO - The expected home page text is: Dashboard
+2024-02-15 13:33:20,985 - Log -INFO - The actual home page text is: Dashboard
+2024-02-15 13:33:21,013 - Log -INFO - Successfully Navigated to Home Page: PASS
+2024-02-15 13:33:21,051 - Log -INFO - Home page validation successful
+2024-02-15 13:33:21,313 - Log -INFO -  PIM menu validation successful
+2024-02-15 13:33:22,410 - Log -INFO - AddEmployee validation successful
+2024-02-15 13:33:22,800 - Log -INFO - The employee is: 0140
+2024-02-15 13:33:29,987 - Log -INFO - Adding new employee successful
+2024-02-15 13:33:30,015 - Log -INFO - The expected text of personal details page is: Personal Details
+2024-02-15 13:33:30,086 - Log -INFO - The actual text of personal details page is: Personal Details
+2024-02-15 13:33:30,112 - Log -INFO - Successfully Navigated to personal details page: PASS
+2024-02-15 13:33:30,135 - Log -INFO - Personal details page validation page successful
+2024-02-16 05:30:45,540 - Log -INFO - Login functionality successful
+2024-02-16 05:30:46,071 - Log -INFO - The expected home page text is: Dashboard
+2024-02-16 05:30:46,845 - Log -INFO - The actual home page text is: Dashboard
+2024-02-16 05:30:46,870 - Log -INFO - Successfully Navigated to Home Page: PASS
+2024-02-16 05:30:46,931 - Log -INFO - Home page validation successful
+2024-02-16 05:30:47,981 - Log -INFO -  PIM menu validation successful
+2024-02-16 05:30:50,237 - Log -INFO - AddEmployee validation successful
+2024-02-16 05:30:51,393 - Log -INFO - The employee is: 0141
+2024-02-16 05:31:00,544 - Log -INFO - Adding new employee successful
+2024-02-16 05:31:00,618 - Log -INFO - The expected text of personal details page is: Personal Details
+2024-02-16 05:31:00,991 - Log -INFO - The actual text of personal details page is: Personal Details
+2024-02-16 05:31:01,014 - Log -INFO - Successfully Navigated to personal details page: PASS
+2024-02-16 05:31:01,041 - Log -INFO - Personal details page validation page successful
+2024-02-16 05:32:21,298 - Log -INFO - Login functionality successful
+2024-02-16 05:32:21,369 - Log -INFO - The expected home page text is: Dashboard
+2024-02-16 05:32:21,525 - Log -INFO - The actual home page text is: Dashboard
+2024-02-16 05:32:21,553 - Log -INFO - Successfully Navigated to Home Page: PASS
+2024-02-16 05:32:21,584 - Log -INFO - Home page validation successful
+2024-02-16 05:32:21,872 - Log -INFO -  PIM menu validation successful
+2024-02-16 05:32:22,844 - Log -INFO - AddEmployee validation successful
+2024-02-16 05:32:23,388 - Log -INFO - The employee is: 0142
+2024-02-16 05:32:32,384 - Log -INFO - Adding new employee successful
+2024-02-16 05:32:32,426 - Log -INFO - The expected text of personal details page is: Personal Details
+2024-02-16 05:32:32,563 - Log -INFO - The actual text of personal details page is: Personal Details
+2024-02-16 05:32:32,596 - Log -INFO - Successfully Navigated to personal details page: PASS
+2024-02-16 05:32:32,630 - Log -INFO - Personal details page validation page successful
+2024-02-16 05:33:46,771 - Log -INFO - Login functionality successful
+2024-02-16 05:33:46,996 - Log -INFO - The expected home page text is: Dashboard
+2024-02-16 05:33:47,110 - Log -INFO - The actual home page text is: Dashboard
+2024-02-16 05:33:47,140 - Log -INFO - Successfully Navigated to Home Page: PASS
+2024-02-16 05:33:47,170 - Log -INFO - Home page validation successful
+2024-02-16 05:33:47,437 - Log -INFO -  PIM menu validation successful
+2024-02-16 05:33:48,609 - Log -INFO - AddEmployee validation successful
+2024-02-16 05:33:49,057 - Log -INFO - The employee is: 0143
+2024-02-16 05:33:56,779 - Log -INFO - Adding new employee successful
+2024-02-16 05:33:56,822 - Log -INFO - The expected text of personal details page is: Personal Details
+2024-02-16 05:33:56,919 - Log -INFO - The actual text of personal details page is: Personal Details
+2024-02-16 05:33:56,958 - Log -INFO - Successfully Navigated to personal details page: PASS
+2024-02-16 05:33:56,989 - Log -INFO - Personal details page validation page successful
+2024-02-16 05:37:19,954 - Log -INFO - The expected login page text is: LOGIN Panel
+2024-02-16 05:37:20,058 - Log -INFO - The actual login page text is: LOGIN Panel
+2024-02-16 05:37:20,091 - Log -INFO - Successfully navigated to Login Page: PASS
+2024-02-16 05:37:23,528 - Log -INFO - The expected home page text is: Dashboard
+2024-02-16 05:37:23,696 - Log -INFO - The actual home page text is: Dashboard
+2024-02-16 05:37:23,731 - Log -INFO - Successfully Navigated to Home Page: PASS
+2024-02-16 05:37:33,261 - Log -INFO - Login functionality successful
+2024-02-16 05:37:33,392 - Log -INFO - The expected home page text is: Dashboard
+2024-02-16 05:37:33,548 - Log -INFO - The actual home page text is: Dashboard
+2024-02-16 05:37:33,570 - Log -INFO - Successfully Navigated to Home Page: PASS
+2024-02-16 05:37:33,611 - Log -INFO - Home page validation successful
+2024-02-16 05:37:33,990 - Log -INFO -  PIM menu validation successful
+2024-02-16 05:37:35,222 - Log -INFO - AddEmployee validation successful
+2024-02-16 05:37:35,644 - Log -INFO - The employee is: 0144
+2024-02-16 05:37:42,950 - Log -INFO - Adding new employee successful
+2024-02-16 05:37:42,981 - Log -INFO - The expected text of personal details page is: Personal Details
+2024-02-16 05:37:43,049 - Log -INFO - The actual text of personal details page is: Personal Details
+2024-02-16 05:37:43,072 - Log -INFO - Successfully Navigated to personal details page: PASS
+2024-02-16 05:37:43,097 - Log -INFO - Personal details page validation page successful
+2024-02-16 05:38:17,558 - Log -INFO - The expected login page text is: LOGIN Panel
+2024-02-16 05:38:17,755 - Log -INFO - The actual login page text is: LOGIN Panel
+2024-02-16 05:38:17,787 - Log -INFO - Successfully navigated to Login Page: PASS
+2024-02-16 05:38:19,042 - Log -INFO - Login functionality successful
+2024-02-16 05:38:19,182 - Log -INFO - Failed to navigated to home page: FAIL
+2024-02-16 05:38:19,226 - Log -INFO - Home page validation successful
+2024-02-16 05:38:39,467 - Log -INFO - Failed to navigated to home page: FAIL
+2024-02-16 05:39:00,142 - Log -INFO - The expected text of personal details page is: Personal Details
+2024-02-16 05:39:24,882 - Log -INFO - The expected login page text is: LOGIN Panel
+2024-02-16 05:39:27,881 - Log -INFO - Login functionality successful
+2024-02-16 05:39:48,115 - Log -INFO - The expected home page text is: Dashboard
+2024-02-16 05:40:05,141 - Log -INFO - The expected text of personal details page is: Personal Details
+2024-02-16 05:40:27,910 - Log -INFO - The expected login page text is: LOGIN Panel
+2024-02-16 05:40:28,084 - Log -INFO - The actual login page text is: LOGIN Panel
+2024-02-16 05:40:28,108 - Log -INFO - Successfully navigated to Login Page: PASS
+2024-02-16 05:40:30,766 - Log -INFO - Login functionality successful
+2024-02-16 05:40:50,977 - Log -INFO - The expected home page text is: Dashboard
+2024-02-16 05:40:51,044 - Log -INFO - The expected home page text is: Dashboard
+2024-02-16 05:40:51,056 - Log -INFO - The actual home page text is: Dashboard
+2024-02-16 05:40:51,090 - Log -INFO - Successfully Navigated to Home Page: PASS
+2024-02-16 05:40:51,113 - Log -INFO - Home page validation successful
+2024-02-16 05:40:51,126 - Log -INFO - The actual home page text is: Dashboard
+2024-02-16 05:40:51,166 - Log -INFO - Successfully Navigated to Home Page: PASS
+2024-02-16 05:40:51,384 - Log -INFO -  PIM menu validation successful
+2024-02-16 05:41:32,916 - Log -INFO - The expected text of personal details page is: Personal Details
+2024-02-17 14:52:54,591 - Log -INFO - The expected login page text is: LOGIN Panel
+2024-02-17 14:52:54,725 - Log -INFO - The actual login page text is: LOGIN Panel
+2024-02-17 14:53:36,986 - Log -INFO - The expected login page text is: LOGN Panel
+2024-02-17 14:53:37,091 - Log -INFO - The actual login page text is: LOGIN Panel
+2024-02-17 14:55:03,820 - Log -INFO - The expected login page text is: LOGN Panel
+2024-02-17 14:55:03,942 - Log -INFO - The actual login page text is: LOGIN Panel
+2024-02-17 14:55:07,573 - Log -INFO - The expected home page text is: Dashboard
+2024-02-17 14:55:07,668 - Log -INFO - The actual home page text is: Dashboard
+2024-02-17 14:55:07,695 - Log -INFO - Successfully Navigated to Home Page: PASS
+2024-02-17 14:57:26,877 - Log -INFO - The expected login page text is: LOGN Panel
+2024-02-17 14:57:26,978 - Log -INFO - The actual login page text is: LOGIN Panel
+2024-02-17 14:57:29,921 - Log -INFO - The expected home page text is: Dashboard
+2024-02-17 14:57:30,066 - Log -INFO - The actual home page text is: Dashboard
+2024-02-17 14:57:30,101 - Log -INFO - Successfully Navigated to Home Page: PASS
+2024-02-17 14:58:53,353 - Log -INFO - The expected login page text is: LOGN Panel
+2024-02-17 14:58:53,450 - Log -INFO - The actual login page text is: LOGIN Panel
+2024-02-17 14:58:56,303 - Log -INFO - The expected home page text is: Dashboard
+2024-02-17 14:58:56,389 - Log -INFO - The actual home page text is: Dashboard
+2024-02-17 14:58:56,415 - Log -INFO - Successfully Navigated to Home Page: PASS
+2024-02-17 14:59:54,917 - Log -INFO - The expected login page text is: LOGIN Panel
+2024-02-17 14:59:55,023 - Log -INFO - The actual login page text is: LOGIN Panel
+2024-02-17 14:59:58,118 - Log -INFO - The expected home page text is: Dashboard
+2024-02-17 14:59:58,283 - Log -INFO - The actual home page text is: Dashboard
+2024-02-17 14:59:58,308 - Log -INFO - Successfully Navigated to Home Page: PASS
+2024-02-17 15:04:41,387 - Log -INFO - The expected login page text is: LOGN Panel
+2024-02-17 15:04:41,527 - Log -INFO - The actual login page text is: LOGIN Panel
+2024-02-17 15:04:41,563 - Log -INFO - Failed to navigate to Login Page: FAIL
+2024-02-17 15:05:22,161 - Log -INFO - The expected login page text is: LOGN Panel
+2024-02-17 15:05:22,259 - Log -INFO - The actual login page text is: LOGIN Panel
+2024-02-17 15:05:22,286 - Log -INFO - Failed to navigate to Login Page: FAIL
+2024-02-17 15:05:25,429 - Log -INFO - The expected home page text is: Dashboard
+2024-02-17 15:05:25,507 - Log -INFO - The actual home page text is: Dashboard
+2024-02-17 15:05:25,534 - Log -INFO - Successfully Navigated to Home Page: PASS
+2024-02-17 15:07:47,141 - Log -INFO - Login functionality successful
+2024-02-17 15:07:47,273 - Log -INFO - The expected home page text is: Dashboard
+2024-02-17 15:07:47,397 - Log -INFO - The actual home page text is: Dashboard
+2024-02-17 15:07:47,432 - Log -INFO - Successfully Navigated to Home Page: PASS
+2024-02-17 15:07:47,466 - Log -INFO - Home page validation successful
+2024-02-17 15:07:47,707 - Log -INFO -  PIM menu validation successful
+2024-02-17 15:07:48,931 - Log -INFO - AddEmployee validation successful
+2024-02-17 15:07:49,526 - Log -INFO - The employee is: 0145
+2024-02-17 15:07:57,975 - Log -INFO - Adding new employee successful
+2024-02-17 15:07:58,017 - Log -INFO - The expected text of personal details page is: Personal Details
+2024-02-17 15:07:58,114 - Log -INFO - The actual text of personal details page is: Personal Details
+2024-02-17 15:07:58,144 - Log -INFO - Successfully Navigated to personal details page: PASS
+2024-02-17 15:07:58,173 - Log -INFO - Personal details page validation page successful
+2024-02-17 16:12:56,006 - Log -INFO - The employee is: 0147
+2024-02-17 16:13:04,415 - Log -INFO - The expected text of personal details page is: Personal Details
+2024-02-17 16:13:04,645 - Log -INFO - The actual text of personal details page is: Personal Details
+2024-02-17 16:13:04,669 - Log -INFO - Successfully Navigated to personal details page: PASS
+2024-02-17 16:13:04,694 - Log -INFO - Personal details page validation page successful
+2024-02-17 16:13:04,889 - Log -INFO - First name matches
+2024-02-17 16:13:04,990 - Log -INFO - Middle name matches
+2024-02-17 16:40:26,706 - Log -INFO - UserName: Mahesh20, Password: Mahesh@20
+2024-02-17 16:40:28,516 - Log -INFO - Expected first name is: Mahi, Expected middle name is: Mahi, Expected last name is: Reddy
+2024-02-17 16:40:28,543 - Log -INFO - Expected employee ID is: 0148
+2024-02-17 16:40:35,844 - Log -INFO - The expected text of personal details page is: Personal Details
+2024-02-17 16:40:35,928 - Log -INFO - The actual text of personal details page is: Personal Details
+2024-02-17 16:40:35,955 - Log -INFO - Successfully Navigated to personal details page: PASS
+2024-02-17 16:40:35,983 - Log -INFO - Personal details page validation page successful
+2024-02-17 16:40:36,091 - Log -INFO - First name matches
+2024-02-17 16:40:36,161 - Log -INFO - Middle name matches
+2024-02-17 16:40:36,287 - Log -INFO - Actual first name is: Mahi, Actual middle name is: Mahi, Actual last name is: Reddy
+2024-02-17 16:40:36,309 - Log -INFO - Actual employee ID is: 0148
+2024-02-19 13:22:52,377 - Log -INFO - UserName: Mahesh20, Password: Mahesh@20
+2024-02-19 13:22:54,092 - Log -INFO - Expected first name is: Mahi, Expected middle name is: Mahi, Expected last name is: Reddy
+2024-02-19 13:22:54,143 - Log -INFO - Expected employee ID is: 0149
+2024-02-19 13:23:02,303 - Log -INFO - The expected text of personal details page is: Personal Details
+2024-02-19 13:23:02,399 - Log -INFO - The actual text of personal details page is: Personal Details
+2024-02-19 13:23:02,425 - Log -INFO - Successfully Navigated to personal details page: PASS
+2024-02-19 13:23:02,451 - Log -INFO - Personal details page validation successful
+2024-02-19 13:23:02,581 - Log -INFO - First name matches
+2024-02-19 13:23:02,646 - Log -INFO - Middle name matches
+2024-02-19 13:23:02,761 - Log -INFO - Actual first name is: Mahi, Actual middle name is: Mahi, Actual last name is: Reddy
+2024-02-19 13:23:02,786 - Log -INFO - Actual employee ID is: 0149
+2024-02-19 13:49:27,834 - Log -INFO - The expected login page text is: LOGN Panel
+2024-02-19 13:49:27,985 - Log -INFO - The actual login page text is: LOGIN Panel
+2024-02-19 13:49:28,003 - Log -INFO - Failed to navigate to Login Page: FAIL
+2024-02-19 13:50:08,280 - Log -INFO - The expected text of employee list page is: Employee Information
+2024-02-19 13:55:47,566 - Log -INFO - The expected login page text is: LOGIN Panel
+2024-02-19 13:55:47,653 - Log -INFO - The actual login page text is: LOGIN Panel
+2024-02-19 13:55:47,676 - Log -INFO - Successfully navigated to Login Page: PASS
+2024-02-19 13:56:27,809 - Log -INFO - The expected text of employee list page is: Employee Information
+2024-02-19 13:59:25,749 - Log -INFO - UserName: Mahesh20, Password: Mahesh@20
+2024-02-19 13:59:27,594 - Log -INFO - Expected first name is: Mahi, Expected middle name is: Mahi, Expected last name is: Reddy
+2024-02-19 13:59:27,623 - Log -INFO - Expected employee ID is: 0150
+2024-02-19 13:59:34,779 - Log -INFO - The expected text of personal details page is: Personal Details
+2024-02-19 13:59:34,844 - Log -INFO - The actual text of personal details page is: Personal Details
+2024-02-19 13:59:34,862 - Log -INFO - Successfully Navigated to personal details page: PASS
+2024-02-19 13:59:34,883 - Log -INFO - Personal details page validation successful
+2024-02-19 13:59:34,952 - Log -INFO - First name matches
+2024-02-19 13:59:35,004 - Log -INFO - Middle name matches
+2024-02-19 13:59:35,099 - Log -INFO - Actual first name is: Mahi, Actual middle name is: Mahi, Actual last name is: Reddy
+2024-02-19 13:59:35,119 - Log -INFO - Actual employee ID is: 0150
+2024-02-19 14:00:00,239 - Log -INFO - The expected login page text is: LOGIN Panel
+2024-02-19 14:00:00,413 - Log -INFO - The actual login page text is: LOGIN Panel
+2024-02-19 14:00:00,440 - Log -INFO - Successfully navigated to Login Page: PASS
+2024-02-19 14:01:15,502 - Log -INFO - UserName: Mahesh20, Password: Mahesh@20
+2024-02-19 14:01:17,152 - Log -INFO - The expected text of employee list page is: Employee Information
+2024-02-19 14:02:22,371 - Log -INFO - UserName: Mahesh20, Password: Mahesh@20
+2024-02-19 14:02:23,983 - Log -INFO - The expected text of employee list page is: Employee Information
+2024-02-19 14:02:24,098 - Log -INFO - The actual login page text is: Employee Information
+Employee Name
+Id
+Employment Status
+All
+Include
+Current Employees Only
+Current and Past Employees
+Past Employees Only
+Supervisor Name
+Job Title
+All
+Sub Unit
+All
+>
+2024-02-19 14:02:24,122 - Log -INFO - Failed to navigate to Employee List Page
+2024-02-19 14:06:30,647 - Log -INFO - UserName: Mahesh20, Password: Mahesh@20
+2024-02-19 14:24:29,023 - Log -INFO - UserName: Mahesh20, Password: Mahesh@20
+2024-02-19 14:25:47,513 - Log -INFO - UserName: Mahesh20, Password: Mahesh@20
+2024-02-19 15:06:32,247 - Log -INFO - The expected leave page text is: Leave Period
+2024-02-19 15:09:46,325 - Log -INFO - The expected leave page text is: Leave Period
+2024-02-19 15:10:09,140 - Log -INFO - UserName: Mahesh20, Password: Mahesh@20
+2024-02-19 15:10:10,976 - Log -INFO - 0 - -- Month --
+2024-02-19 15:10:11,034 - Log -INFO - 1 - January
+2024-02-19 15:10:11,082 - Log -INFO - 2 - February
+2024-02-19 15:10:11,149 - Log -INFO - 3 - March
+2024-02-19 15:10:11,193 - Log -INFO - 4 - April
+2024-02-19 15:10:11,243 - Log -INFO - 5 - May
+2024-02-19 15:10:11,288 - Log -INFO - 6 - June
+2024-02-19 15:10:11,343 - Log -INFO - 7 - July
+2024-02-19 15:10:11,391 - Log -INFO - 8 - August
+2024-02-19 15:10:11,435 - Log -INFO - 9 - September
+2024-02-19 15:10:11,467 - Log -INFO - 10 - October
+2024-02-19 15:10:11,507 - Log -INFO - 11 - November
+2024-02-19 15:10:11,541 - Log -INFO - 12 - December
+2024-02-19 15:10:40,392 - Log -INFO - The expected leave page text is: Leave Period
+2024-02-19 15:11:02,701 - Log -INFO - UserName: Mahesh20, Password: Mahesh@20
+2024-02-19 15:11:04,327 - Log -INFO - 0 - -- Month --
+2024-02-19 15:11:04,373 - Log -INFO - 1 - January
+2024-02-19 15:11:04,422 - Log -INFO - 2 - February
+2024-02-19 15:11:04,467 - Log -INFO - 3 - March
+2024-02-19 15:11:04,512 - Log -INFO - 4 - April
+2024-02-19 15:11:04,552 - Log -INFO - 5 - May
+2024-02-19 15:11:04,595 - Log -INFO - 6 - June
+2024-02-19 15:11:04,633 - Log -INFO - 7 - July
+2024-02-19 15:11:04,685 - Log -INFO - 8 - August
+2024-02-19 15:11:04,723 - Log -INFO - 9 - September
+2024-02-19 15:11:04,758 - Log -INFO - 10 - October
+2024-02-19 15:11:04,793 - Log -INFO - 11 - November
+2024-02-19 15:11:04,823 - Log -INFO - 12 - December
+2024-02-19 15:13:15,930 - Log -INFO - The expected leave page text is: Leave Period
+2024-02-19 15:13:38,778 - Log -INFO - UserName: Mahesh20, Password: Mahesh@20
+2024-02-19 15:13:40,675 - Log -INFO - 0 - -- Month --
+2024-02-19 15:13:40,711 - Log -INFO - 1 - January
+2024-02-19 15:13:40,751 - Log -INFO - 2 - February
+2024-02-19 15:13:40,801 - Log -INFO - 3 - March
+2024-02-19 15:13:40,848 - Log -INFO - 4 - April
+2024-02-19 15:13:40,899 - Log -INFO - 5 - May
+2024-02-19 15:13:40,946 - Log -INFO - 6 - June
+2024-02-19 15:13:40,997 - Log -INFO - 7 - July
+2024-02-19 15:13:41,073 - Log -INFO - 8 - August
+2024-02-19 15:13:41,124 - Log -INFO - 9 - September
+2024-02-19 15:13:41,170 - Log -INFO - 10 - October
+2024-02-19 15:13:41,213 - Log -INFO - 11 - November
+2024-02-19 15:13:41,264 - Log -INFO - 12 - December
+2024-02-19 15:19:12,314 - Log -INFO - UserName: Mahesh20, Password: Mahesh@20
+2024-02-19 15:19:14,121 - Log -INFO - 0 - -- Month --
+2024-02-19 15:19:14,170 - Log -INFO - 1 - January
+2024-02-19 15:19:14,221 - Log -INFO - 2 - February
+2024-02-19 15:19:14,290 - Log -INFO - 3 - March
+2024-02-19 15:19:14,339 - Log -INFO - 4 - April
+2024-02-19 15:19:14,377 - Log -INFO - 5 - May
+2024-02-19 15:19:14,428 - Log -INFO - 6 - June
+2024-02-19 15:19:14,470 - Log -INFO - 7 - July
+2024-02-19 15:19:14,514 - Log -INFO - 8 - August
+2024-02-19 15:19:14,559 - Log -INFO - 9 - September
+2024-02-19 15:19:14,602 - Log -INFO - 10 - October
+2024-02-19 15:19:14,638 - Log -INFO - 11 - November
+2024-02-19 15:19:14,672 - Log -INFO - 12 - December
+2024-02-19 15:21:51,622 - Log -INFO - UserName: Mahesh20, Password: Mahesh@20
+2024-02-19 15:21:54,225 - Log -INFO - 0 - -- Month --
+2024-02-19 15:21:54,286 - Log -INFO - 1 - January
+2024-02-19 15:21:54,334 - Log -INFO - 2 - February
+2024-02-19 15:21:54,378 - Log -INFO - 3 - March
+2024-02-19 15:21:54,424 - Log -INFO - 4 - April
+2024-02-19 15:21:54,489 - Log -INFO - 5 - May
+2024-02-19 15:21:54,553 - Log -INFO - 6 - June
+2024-02-19 15:21:54,656 - Log -INFO - 7 - July
+2024-02-19 15:21:54,708 - Log -INFO - 8 - August
+2024-02-19 15:21:54,770 - Log -INFO - 9 - September
+2024-02-19 15:21:54,858 - Log -INFO - 10 - October
+2024-02-19 15:21:54,924 - Log -INFO - 11 - November
+2024-02-19 15:21:54,982 - Log -INFO - 12 - December
+2024-02-19 15:27:20,075 - Log -INFO - UserName: Mahesh20, Password: Mahesh@20
+2024-02-19 15:27:21,953 - Log -INFO - 0 - -- Month --
+2024-02-19 15:27:22,007 - Log -INFO - 1 - January
+2024-02-19 15:27:22,057 - Log -INFO - 2 - February
+2024-02-19 15:27:22,107 - Log -INFO - 3 - March
+2024-02-19 15:27:22,155 - Log -INFO - 4 - April
+2024-02-19 15:27:22,196 - Log -INFO - 5 - May
+2024-02-19 15:27:22,239 - Log -INFO - 6 - June
+2024-02-19 15:27:22,276 - Log -INFO - 7 - July
+2024-02-19 15:27:22,318 - Log -INFO - 8 - August
+2024-02-19 15:27:22,356 - Log -INFO - 9 - September
+2024-02-19 15:27:22,396 - Log -INFO - 10 - October
+2024-02-19 15:27:22,433 - Log -INFO - 11 - November
+2024-02-19 15:27:22,473 - Log -INFO - 12 - December
+2024-02-19 15:27:47,358 - Log -INFO - UserName: Mahesh20, Password: Mahesh@20
+2024-02-19 15:28:17,322 - Log -INFO - 0 - -- Month --
+2024-02-19 15:28:17,354 - Log -INFO - 1 - January
+2024-02-19 15:28:17,391 - Log -INFO - 2 - February
+2024-02-19 15:28:17,428 - Log -INFO - 3 - March
+2024-02-19 15:28:17,464 - Log -INFO - 4 - April
+2024-02-19 15:28:17,508 - Log -INFO - 5 - May
+2024-02-19 15:28:17,549 - Log -INFO - 6 - June
+2024-02-19 15:28:17,587 - Log -INFO - 7 - July
+2024-02-19 15:28:17,616 - Log -INFO - 8 - August
+2024-02-19 15:28:17,650 - Log -INFO - 9 - September
+2024-02-19 15:28:17,688 - Log -INFO - 10 - October
+2024-02-19 15:28:17,722 - Log -INFO - 11 - November
+2024-02-19 15:28:17,755 - Log -INFO - 12 - December
+2024-02-19 15:30:08,581 - Log -INFO - UserName: Mahesh20, Password: Mahesh@20
+2024-02-19 15:30:10,805 - Log -INFO - 0 - -- Month --
+2024-02-19 15:30:10,845 - Log -INFO - 1 - January
+2024-02-19 15:30:10,886 - Log -INFO - 2 - February
+2024-02-19 15:30:10,932 - Log -INFO - 3 - March
+2024-02-19 15:30:10,970 - Log -INFO - 4 - April
+2024-02-19 15:30:11,007 - Log -INFO - 5 - May
+2024-02-19 15:30:11,049 - Log -INFO - 6 - June
+2024-02-19 15:30:11,088 - Log -INFO - 7 - July
+2024-02-19 15:30:11,127 - Log -INFO - 8 - August
+2024-02-19 15:30:11,169 - Log -INFO - 9 - September
+2024-02-19 15:30:11,210 - Log -INFO - 10 - October
+2024-02-19 15:30:11,248 - Log -INFO - 11 - November
+2024-02-19 15:30:11,285 - Log -INFO - 12 - December
+2024-02-19 15:34:31,541 - Log -INFO - UserName: Mahesh20, Password: Mahesh@20
+2024-02-19 15:34:33,705 - Log -INFO - 0 - -- Month --
+2024-02-19 15:34:33,742 - Log -INFO - 1 - January
+2024-02-19 15:34:33,782 - Log -INFO - 2 - February
+2024-02-19 15:34:33,822 - Log -INFO - 3 - March
+2024-02-19 15:34:33,864 - Log -INFO - 4 - April
+2024-02-19 15:34:33,909 - Log -INFO - 5 - May
+2024-02-19 15:34:33,947 - Log -INFO - 6 - June
+2024-02-19 15:34:33,979 - Log -INFO - 7 - July
+2024-02-19 15:34:34,017 - Log -INFO - 8 - August
+2024-02-19 15:34:34,050 - Log -INFO - 9 - September
+2024-02-19 15:34:34,090 - Log -INFO - 10 - October
+2024-02-19 15:34:34,121 - Log -INFO - 11 - November
+2024-02-19 15:34:34,162 - Log -INFO - 12 - December
+2024-02-19 15:35:49,891 - Log -INFO - UserName: Mahesh20, Password: Mahesh@20
+2024-02-19 15:36:11,861 - Log -INFO - 0 - -- Month --
+2024-02-19 15:36:11,906 - Log -INFO - 1 - January
+2024-02-19 15:36:11,950 - Log -INFO - 2 - February
+2024-02-19 15:36:11,988 - Log -INFO - 3 - March
+2024-02-19 15:36:12,023 - Log -INFO - 4 - April
+2024-02-19 15:36:12,057 - Log -INFO - 5 - May
+2024-02-19 15:36:12,089 - Log -INFO - 6 - June
+2024-02-19 15:36:12,124 - Log -INFO - 7 - July
+2024-02-19 15:36:12,167 - Log -INFO - 8 - August
+2024-02-19 15:36:12,207 - Log -INFO - 9 - September
+2024-02-19 15:36:12,248 - Log -INFO - 10 - October
+2024-02-19 15:36:12,293 - Log -INFO - 11 - November
+2024-02-19 15:36:12,337 - Log -INFO - 12 - December
+2024-02-19 15:37:04,520 - Log -INFO - UserName: Mahesh20, Password: Mahesh@20
+2024-02-19 15:37:08,092 - Log -INFO - 0 - -- Month --
+2024-02-19 15:37:08,187 - Log -INFO - 1 - January
+2024-02-19 15:37:08,243 - Log -INFO - 2 - February
+2024-02-19 15:37:08,306 - Log -INFO - 3 - March
+2024-02-19 15:37:08,370 - Log -INFO - 4 - April
+2024-02-19 15:37:08,448 - Log -INFO - 5 - May
+2024-02-19 15:37:08,523 - Log -INFO - 6 - June
+2024-02-19 15:37:08,608 - Log -INFO - 7 - July
+2024-02-19 15:37:08,657 - Log -INFO - 8 - August
+2024-02-19 15:37:08,962 - Log -INFO - 9 - September
+2024-02-19 15:37:09,159 - Log -INFO - 10 - October
+2024-02-19 15:37:09,290 - Log -INFO - 11 - November
+2024-02-19 15:37:09,363 - Log -INFO - 12 - December
+2024-02-19 15:39:52,644 - Log -INFO - UserName: Mahesh20, Password: Mahesh@20
+2024-02-19 15:41:32,727 - Log -INFO - UserName: Mahesh20, Password: Mahesh@20
+2024-02-19 15:41:34,568 - Log -INFO - 0 - -- Month --
+2024-02-19 15:41:34,607 - Log -INFO - 1 - January
+2024-02-19 15:41:34,644 - Log -INFO - 2 - February
+2024-02-19 15:41:34,694 - Log -INFO - 3 - March
+2024-02-19 15:41:34,742 - Log -INFO - 4 - April
+2024-02-19 15:41:34,798 - Log -INFO - 5 - May
+2024-02-19 15:41:34,849 - Log -INFO - 6 - June
+2024-02-19 15:41:34,892 - Log -INFO - 7 - July
+2024-02-19 15:41:34,936 - Log -INFO - 8 - August
+2024-02-19 15:41:34,982 - Log -INFO - 9 - September
+2024-02-19 15:41:35,034 - Log -INFO - 10 - October
+2024-02-19 15:41:35,080 - Log -INFO - 11 - November
+2024-02-19 15:41:35,132 - Log -INFO - 12 - December
+2024-02-19 15:46:21,956 - Log -INFO - UserName: Mahesh20, Password: Mahesh@20
+2024-02-19 15:46:43,953 - Log -INFO - 0 - -- Month --
+2024-02-19 15:46:43,990 - Log -INFO - 1 - January
+2024-02-19 15:46:44,022 - Log -INFO - 2 - February
+2024-02-19 15:46:44,051 - Log -INFO - 3 - March
+2024-02-19 15:46:44,084 - Log -INFO - 4 - April
+2024-02-19 15:46:44,113 - Log -INFO - 5 - May
+2024-02-19 15:46:44,143 - Log -INFO - 6 - June
+2024-02-19 15:46:44,174 - Log -INFO - 7 - July
+2024-02-19 15:46:44,207 - Log -INFO - 8 - August
+2024-02-19 15:46:44,240 - Log -INFO - 9 - September
+2024-02-19 15:46:44,271 - Log -INFO - 10 - October
+2024-02-19 15:46:44,308 - Log -INFO - 11 - November
+2024-02-19 15:46:44,346 - Log -INFO - 12 - December
+2024-02-19 15:48:27,859 - Log -INFO - UserName: Mahesh20, Password: Mahesh@20
+2024-02-19 15:48:29,758 - Log -INFO - 0 - -- Month --
+2024-02-19 15:48:29,805 - Log -INFO - 1 - January
+2024-02-19 15:48:29,850 - Log -INFO - 2 - February
+2024-02-19 15:48:29,894 - Log -INFO - 3 - March
+2024-02-19 15:48:29,965 - Log -INFO - 4 - April
+2024-02-19 15:48:30,009 - Log -INFO - 5 - May
+2024-02-19 15:48:30,063 - Log -INFO - 6 - June
+2024-02-19 15:48:30,099 - Log -INFO - 7 - July
+2024-02-19 15:48:30,136 - Log -INFO - 8 - August
+2024-02-19 15:48:30,167 - Log -INFO - 9 - September
+2024-02-19 15:48:30,206 - Log -INFO - 10 - October
+2024-02-19 15:48:30,240 - Log -INFO - 11 - November
+2024-02-19 15:48:30,289 - Log -INFO - 12 - December
+2024-02-19 15:49:21,586 - Log -INFO - UserName: Mahesh20, Password: Mahesh@20
+2024-02-19 15:49:23,673 - Log -INFO - 0 - -- Month --
+2024-02-19 15:49:23,742 - Log -INFO - 1 - January
+2024-02-19 15:49:23,792 - Log -INFO - 2 - February
+2024-02-19 15:49:23,870 - Log -INFO - 3 - March
+2024-02-19 15:49:23,921 - Log -INFO - 4 - April
+2024-02-19 15:49:23,974 - Log -INFO - 5 - May
+2024-02-19 15:49:24,031 - Log -INFO - 6 - June
+2024-02-19 15:49:24,080 - Log -INFO - 7 - July
+2024-02-19 15:49:24,122 - Log -INFO - 8 - August
+2024-02-19 15:49:24,165 - Log -INFO - 9 - September
+2024-02-19 15:49:24,201 - Log -INFO - 10 - October
+2024-02-19 15:49:24,240 - Log -INFO - 11 - November
+2024-02-19 15:49:24,281 - Log -INFO - 12 - December
+2024-02-19 15:57:56,078 - Log -INFO - UserName: Mahesh20, Password: Mahesh@20
+2024-02-19 15:57:58,113 - Log -INFO - -- Date --
+2024-02-19 15:57:58,240 - Log -INFO - 0 - -- Month --
+2024-02-19 15:57:58,276 - Log -INFO - 1 - January
+2024-02-19 15:57:58,317 - Log -INFO - 2 - February
+2024-02-19 15:57:58,353 - Log -INFO - 3 - March
+2024-02-19 15:57:58,395 - Log -INFO - 4 - April
+2024-02-19 15:57:58,435 - Log -INFO - 5 - May
+2024-02-19 15:57:58,469 - Log -INFO - 6 - June
+2024-02-19 15:57:58,508 - Log -INFO - 7 - July
+2024-02-19 15:57:58,557 - Log -INFO - 8 - August
+2024-02-19 15:57:58,598 - Log -INFO - 9 - September
+2024-02-19 15:57:58,637 - Log -INFO - 10 - October
+2024-02-19 15:57:58,697 - Log -INFO - 11 - November
+2024-02-19 15:57:58,740 - Log -INFO - 12 - December
+2024-02-19 16:00:05,106 - Log -INFO - UserName: Mahesh20, Password: Mahesh@20
+2024-02-19 16:00:07,212 - Log -INFO - -- Date --
+2024-02-19 16:00:07,483 - Log -INFO - 0 - -- Month --
+2024-02-19 16:00:07,524 - Log -INFO - 1 - January
+2024-02-19 16:00:07,562 - Log -INFO - 2 - February
+2024-02-19 16:00:07,598 - Log -INFO - 3 - March
+2024-02-19 16:00:07,637 - Log -INFO - 4 - April
+2024-02-19 16:00:07,673 - Log -INFO - 5 - May
+2024-02-19 16:00:07,707 - Log -INFO - 6 - June
+2024-02-19 16:00:07,743 - Log -INFO - 7 - July
+2024-02-19 16:00:07,775 - Log -INFO - 8 - August
+2024-02-19 16:00:07,811 - Log -INFO - 9 - September
+2024-02-19 16:00:07,854 - Log -INFO - 10 - October
+2024-02-19 16:00:07,893 - Log -INFO - 11 - November
+2024-02-19 16:00:07,938 - Log -INFO - 12 - December
+2024-02-19 16:02:26,418 - Log -INFO - UserName: Mahesh20, Password: Mahesh@20
+2024-02-19 16:02:28,519 - Log -INFO - 0 - -- Month --
+2024-02-19 16:02:28,570 - Log -INFO - 1 - January
+2024-02-19 16:02:28,615 - Log -INFO - 2 - February
+2024-02-19 16:02:28,650 - Log -INFO - 3 - March
+2024-02-19 16:02:28,693 - Log -INFO - 4 - April
+2024-02-19 16:02:28,734 - Log -INFO - 5 - May
+2024-02-19 16:02:28,775 - Log -INFO - 6 - June
+2024-02-19 16:02:28,814 - Log -INFO - 7 - July
+2024-02-19 16:02:28,851 - Log -INFO - 8 - August
+2024-02-19 16:02:28,887 - Log -INFO - 9 - September
+2024-02-19 16:02:28,924 - Log -INFO - 10 - October
+2024-02-19 16:02:28,964 - Log -INFO - 11 - November
+2024-02-19 16:02:29,000 - Log -INFO - 12 - December
+2024-02-19 16:03:09,894 - Log -INFO - UserName: Mahesh20, Password: Mahesh@20
+2024-02-19 16:03:32,506 - Log -INFO - 0 - -- Month --
+2024-02-19 16:03:32,544 - Log -INFO - 1 - January
+2024-02-19 16:03:32,581 - Log -INFO - 2 - February
+2024-02-19 16:03:32,621 - Log -INFO - 3 - March
+2024-02-19 16:03:32,661 - Log -INFO - 4 - April
+2024-02-19 16:03:32,701 - Log -INFO - 5 - May
+2024-02-19 16:03:32,744 - Log -INFO - 6 - June
+2024-02-19 16:03:32,779 - Log -INFO - 7 - July
+2024-02-19 16:03:32,814 - Log -INFO - 8 - August
+2024-02-19 16:03:32,848 - Log -INFO - 9 - September
+2024-02-19 16:03:32,879 - Log -INFO - 10 - October
+2024-02-19 16:03:32,917 - Log -INFO - 11 - November
+2024-02-19 16:03:32,948 - Log -INFO - 12 - December
+2024-02-19 18:55:42,292 - Log -INFO - UserName: Mahesh20, Password: Mahesh@20
+2024-02-19 18:55:44,851 - Log -INFO - -- Month --
+2024-02-19 18:55:44,900 - Log -INFO - January
+2024-02-19 18:55:44,958 - Log -INFO - February
+2024-02-19 18:55:45,025 - Log -INFO - March
+2024-02-19 18:55:45,079 - Log -INFO - April
+2024-02-19 18:55:45,130 - Log -INFO - May
+2024-02-19 18:55:45,192 - Log -INFO - June
+2024-02-19 18:55:45,240 - Log -INFO - July
+2024-02-19 18:55:45,299 - Log -INFO - August
+2024-02-19 18:55:45,347 - Log -INFO - September
+2024-02-19 18:55:45,403 - Log -INFO - October
+2024-02-19 18:55:45,454 - Log -INFO - November
+2024-02-19 18:55:45,499 - Log -INFO - December
+2024-02-19 18:59:40,107 - Log -INFO - UserName: Mahesh20, Password: Mahesh@20
+2024-02-19 18:59:42,592 - Log -INFO - The total no of months in the list is: 13
+2024-02-19 18:59:42,682 - Log -INFO - -- Month --
+2024-02-19 18:59:42,736 - Log -INFO - January
+2024-02-19 18:59:42,785 - Log -INFO - February
+2024-02-19 18:59:42,836 - Log -INFO - March
+2024-02-19 18:59:42,889 - Log -INFO - April
+2024-02-19 18:59:42,931 - Log -INFO - May
+2024-02-19 18:59:42,976 - Log -INFO - June
+2024-02-19 18:59:43,021 - Log -INFO - July
+2024-02-19 18:59:43,063 - Log -INFO - August
+2024-02-19 18:59:43,135 - Log -INFO - September
+2024-02-19 18:59:43,209 - Log -INFO - October
+2024-02-19 18:59:43,280 - Log -INFO - November
+2024-02-19 18:59:43,343 - Log -INFO - December

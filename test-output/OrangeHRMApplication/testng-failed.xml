@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite parallel="tests" name="Failed suite [OrangeHRMApplication]">
+  <test thread-count="5" parallel="tests" name="OrangeHRM_LoginTest(failed)">
+    <classes>
+      <class name="com.OrangeHRM.OrangeHRMLoginFunctionalityTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="applicationSetUp"/>
+          <include name="loginFunctionalityTest"/>
+        </methods>
+      </class> <!-- com.OrangeHRM.OrangeHRMLoginFunctionalityTest -->
+    </classes>
+  </test> <!-- OrangeHRM_LoginTest(failed) -->
+  <test thread-count="5" parallel="tests" name="OrangeHRM_AddEmployeeTest(failed)">
+    <classes>
+      <class name="com.OrangeHRM.OrangeHRMAddEmployeeTest">
+        <methods>
+          <include name="personalDetailsPageValidationTest"/>
+          <include name="tearDown"/>
+          <include name="addEmployeeValidationTest"/>
+          <include name="addingNewEmployeeTest"/>
+          <include name="applicationSetUp"/>
+        </methods>
+      </class> <!-- com.OrangeHRM.OrangeHRMAddEmployeeTest -->
+    </classes>
+  </test> <!-- OrangeHRM_AddEmployeeTest(failed) -->
+</suite> <!-- Failed suite [OrangeHRMApplication] -->

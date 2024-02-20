@@ -1,0 +1,861 @@
+[main] INFO Log - ******Chrome browser opened successfully******
+[main] INFO Log - Test Run
+[main] INFO Log - ******Broswer closed successfully******
+[main] INFO Log - ******Chrome browser opened successfully******
+[main] INFO Log - Test Run
+[main] INFO Log - ******Broswer closed successfully******
+[main] INFO Log - ******Chrome browser opened successfully******
+[main] INFO Log - The expected login page text is: LOGIN Panel
+[main] INFO Log - The actual login page text is: LOGIN Panel
+[main] INFO Log - ******Broswer closed successfully******
+[main] INFO Log - ******Chrome browser opened successfully******
+[main] INFO Log - ******Broswer closed successfully******
+[main] INFO Log - ******Chrome browser opened successfully******
+[main] INFO Log - ******Broswer closed successfully******
+[main] INFO Log - The expected login page text is: LOGIN Panel
+[main] INFO Log - The expected login page text is: LOGIN Panel
+[main] INFO Log - The expected login page text is: LOGIN Panel
+[main] INFO Log - The expected login page text is: LOGIN Panel
+[main] INFO Log - ******Chrome browser opened successfully******
+[main] INFO Log - The expected login page text is: LOGIN Panel
+[main] INFO Log - ******Broswer closed successfully******
+[main] INFO Log - ******Chrome browser opened successfully******
+[main] INFO Log - The expected login page text is: LOGIN Panel
+[main] INFO Log - ******Broswer closed successfully******
+[main] INFO Log - ******Chrome browser opened successfully******
+[main] INFO Log - The expected login page text is: LOGIN Panel
+[main] INFO Log - ******Broswer closed successfully******
+[main] INFO Log - ******Chrome browser opened successfully******
+[main] INFO Log - The expected login page text is: LOGIN Panel
+[main] INFO Log - ******Broswer closed successfully******
+[main] INFO Log - ******Chrome browser opened successfully******
+[main] INFO Log - The expected login page text is: LOGIN Panel
+[main] INFO Log - ******Broswer closed successfully******
+[main] INFO Log - ******Chrome browser opened successfully******
+[main] INFO Log - The expected login page text is: LOGIN Panel
+[main] INFO Log - The actual login page text is: LOGIN Panel
+[main] INFO Log - Successfully navigated to Login Page: PASS
+[main] INFO Log - ******Broswer closed successfully******
+[main] INFO Log - ******Chrome browser opened successfully******
+[main] INFO Log - The expected login page text is: LOGIN Panel
+[main] INFO Log - The actual login page text is: LOGIN Panel
+[main] INFO Log - Successfully navigated to Login Page: PASS
+[main] INFO Log - The expected home page text is: Dashboard
+[main] INFO Log - The actual home page text is: Dashboard
+[main] INFO Log - Successfully Navigated to Home Page: PASS
+[main] INFO Log - ******Broswer closed successfully******
+[main] INFO Log - ******Chrome browser opened successfully******
+[main] INFO Log - The expected login page text is: LOGIN Panel
+[main] INFO Log - The actual login page text is: LOGIN Panel
+[main] INFO Log - Successfully navigated to Login Page: PASS
+[main] INFO Log - The expected home page text is: Dashboard
+[main] INFO Log - The actual home page text is: Dashboard
+[main] INFO Log - Successfully Navigated to Home Page: PASS
+[main] INFO Log - ******Broswer closed successfully******
+[main] INFO Log - ******Chrome browser opened successfully******
+[main] INFO Log - The expected login page text is: LOGIN Panel
+[main] INFO Log - The actual login page text is: LOGIN Panel
+[main] INFO Log - Successfully navigated to Login Page: PASS
+[main] INFO Log - The expected home page text is: Dashboard
+[main] INFO Log - The actual home page text is: Dashboard
+[main] INFO Log - Successfully Navigated to Home Page: PASS
+[main] INFO Log - ******Broswer closed successfully******
+[main] INFO Log - The expected login page text is: LOGIN Panel
+[main] INFO Log - The actual login page text is: LOGIN Panel
+[main] INFO Log - Successfully navigated to Login Page: PASS
+[main] INFO Log - The expected home page text is: Dashboard
+[main] INFO Log - The actual home page text is: Dashboard
+[main] INFO Log - Successfully Navigated to Home Page: PASS
+[main] INFO Log - The expected login page text is: LOGIN Panel
+[main] INFO Log - The actual login page text is: LOGIN Panel
+[main] INFO Log - Successfully navigated to Login Page: PASS
+[main] INFO Log - The expected home page text is: Dashboard
+[main] INFO Log - The actual home page text is: Dashboard
+[main] INFO Log - Successfully Navigated to Home Page: PASS
+[main] INFO Log - Failed to navigated to home page: FAIL
+[main] INFO Log - The expected text of personal details page is: Personal Details
+[main] INFO Log - Failed to navigated to home page: FAIL
+[main] INFO Log - The expected login page text is: LOGIN Panel
+[main] INFO Log - The actual login page text is: LOGIN Panel
+[main] INFO Log - Successfully navigated to Login Page: PASS
+[main] INFO Log - The expected home page text is: Dashboard
+[main] INFO Log - The actual home page text is: Dashboard
+[main] INFO Log - Successfully Navigated to Home Page: PASS
+[main] INFO Log - The expected home page text is: Dashboard
+[main] INFO Log - The actual home page text is: Dashboard
+[main] INFO Log - Successfully Navigated to Home Page: PASS
+[main] INFO Log - The expected text of personal details page is: Personal Details
+[main] INFO Log - The expected login page text is: LOGIN Panel
+[main] INFO Log - The actual login page text is: LOGIN Panel
+[main] INFO Log - Successfully navigated to Login Page: PASS
+[main] INFO Log - The expected home page text is: Dashboard
+[main] INFO Log - The actual home page text is: Dashboard
+[main] INFO Log - Successfully Navigated to Home Page: PASS
+[main] INFO Log - The expected home page text is: Dashboard
+[main] INFO Log - The actual home page text is: Dashboard
+[main] INFO Log - Successfully Navigated to Home Page: PASS
+[main] INFO Log - The expected text of personal details page is: Personal Details
+[main] INFO Log - The expected home page text is: Dashboard
+[main] INFO Log - The actual home page text is: Dashboard
+[main] INFO Log - Successfully Navigated to Home Page: PASS
+[main] INFO Log - The expected home page text is: Dashboard
+[main] INFO Log - The actual home page text is: Dashboard
+[main] INFO Log - Successfully Navigated to Home Page: PASS
+[main] INFO Log - The expected text of personal details page is: Personal Details
+[main] INFO Log - The expected home page text is: Dashboard
+[main] INFO Log - The actual home page text is: Dashboard
+[main] INFO Log - Successfully Navigated to Home Page: PASS
+[main] INFO Log - The expected home page text is: Dashboard
+[main] INFO Log - The actual home page text is: Dashboard
+[main] INFO Log - Successfully Navigated to Home Page: PASS
+[main] INFO Log - The expected home page text is: Dashboard
+[main] INFO Log - The actual home page text is: Dashboard
+[main] INFO Log - Successfully Navigated to Home Page: PASS
+[main] INFO Log - The expected home page text is: Dashboard
+[main] INFO Log - The actual home page text is: Dashboard
+[main] INFO Log - Successfully Navigated to Home Page: PASS
+[main] INFO Log - The expected home page text is: Dashboard
+[main] INFO Log - The actual home page text is: Dashboard
+[main] INFO Log - Successfully Navigated to Home Page: PASS
+[main] INFO Log - The expected home page text is: Dashboard
+[main] INFO Log - The actual home page text is: Dashboard
+[main] INFO Log - Successfully Navigated to Home Page: PASS
+[main] INFO Log - The expected home page text is: Dashboard
+[main] INFO Log - The actual home page text is: Dashboard
+[main] INFO Log - Successfully Navigated to Home Page: PASS
+[main] INFO Log - The expected home page text is: Dashboard
+[main] INFO Log - The actual home page text is: Dashboard
+[main] INFO Log - Successfully Navigated to Home Page: PASS
+[main] INFO Log - The expected home page text is: Dashboard
+[main] INFO Log - The actual home page text is: Dashboard
+[main] INFO Log - Successfully Navigated to Home Page: PASS
+[main] INFO Log - The expected home page text is: Dashboard
+[main] INFO Log - The actual home page text is: Dashboard
+[main] INFO Log - Successfully Navigated to Home Page: PASS
+[main] INFO Log - The expected home page text is: Dashboard
+[main] INFO Log - The actual home page text is: Dashboard
+[main] INFO Log - Successfully Navigated to Home Page: PASS
+[main] INFO Log - The employee is: 0129
+[main] INFO Log - The expected home page text is: Dashboard
+[main] INFO Log - The actual home page text is: Dashboard
+[main] INFO Log - Successfully Navigated to Home Page: PASS
+[main] INFO Log - The employee is: 0130
+[main] INFO Log - The expected text of personal details page is: Personal Details
+[main] INFO Log - The actual text of personal details page is: Personal Details
+[main] INFO Log - Successfully Navigated to personal details page: PASS
+[main] INFO Log - Login functionality successfull
+[main] INFO Log - The expected home page text is: Dashboard
+[main] INFO Log - The actual home page text is: Dashboard
+[main] INFO Log - Successfully Navigated to Home Page: PASS
+[main] INFO Log - Home page validation successfull
+[main] INFO Log -  PIM menu validation successfull
+[main] INFO Log - AddEmployee validation successfull
+[main] INFO Log - The employee is: 0131
+[main] INFO Log - Adding new employee successfull
+[main] INFO Log - The expected text of personal details page is: Personal Details
+[main] INFO Log - The actual text of personal details page is: Personal Details
+[main] INFO Log - Successfully Navigated to personal details page: PASS
+[main] INFO Log - Personal details page validation page successfull
+[main] INFO Log - Login functionality successful
+[main] INFO Log - The expected home page text is: Dashboard
+[main] INFO Log - The actual home page text is: Dashboard
+[main] INFO Log - Successfully Navigated to Home Page: PASS
+[main] INFO Log - Home page validation successful
+[main] INFO Log -  PIM menu validation successful
+[main] INFO Log - AddEmployee validation successful
+[main] INFO Log - The employee is: 0132
+[main] INFO Log - Adding new employee successful
+[main] INFO Log - The expected text of personal details page is: Personal Details
+[main] INFO Log - The actual text of personal details page is: Personal Details
+[main] INFO Log - Successfully Navigated to personal details page: PASS
+[main] INFO Log - Personal details page validation page successful
+[main] INFO Log - The expected login page text is: LOGIN Panel
+[main] INFO Log - The actual login page text is: LOGIN Panel
+[main] INFO Log - Successfully navigated to Login Page: PASS
+[main] INFO Log - The expected home page text is: Dashboard
+[main] INFO Log - The actual home page text is: Dashboard
+[main] INFO Log - Successfully Navigated to Home Page: PASS
+[main] INFO Log - The expected login page text is: LOGIN Panel
+[main] INFO Log - The actual login page text is: LOGIN Panel
+[main] INFO Log - Successfully navigated to Login Page: PASS
+[main] INFO Log - The expected home page text is: Dashboard
+[main] INFO Log - The actual home page text is: Dashboard
+[main] INFO Log - Successfully Navigated to Home Page: PASS
+[main] INFO Log - Login functionality successful
+[main] INFO Log - The expected home page text is: Dashboard
+[main] INFO Log - The actual home page text is: Dashboard
+[main] INFO Log - Successfully Navigated to Home Page: PASS
+[main] INFO Log - Home page validation successful
+[main] INFO Log -  PIM menu validation successful
+[main] INFO Log - AddEmployee validation successful
+[main] INFO Log - The employee is: 0133
+[main] INFO Log - Adding new employee successful
+[main] INFO Log - The expected text of personal details page is: Personal Details
+[main] INFO Log - The actual text of personal details page is: Personal Details
+[main] INFO Log - Successfully Navigated to personal details page: PASS
+[main] INFO Log - Personal details page validation page successful
+[TestNG-tests-2] INFO Log - Failed to navigated to home page: FAIL
+[TestNG-tests-1] INFO Log - The expected login page text is: LOGIN Panel
+[TestNG-tests-2] INFO Log - Home page validation successful
+[TestNG-tests-1] INFO Log - Failed to navigated to home page: FAIL
+[TestNG-tests-2] INFO Log - The expected text of personal details page is: Personal Details
+[TestNG-tests-1] INFO Log - The expected login page text is: LOGIN Panel
+[TestNG-tests-1] INFO Log - The actual login page text is: LOGIN Panel
+[TestNG-tests-1] INFO Log - Successfully navigated to Login Page: PASS
+[TestNG-tests-2] INFO Log - Login functionality successful
+[TestNG-tests-2] INFO Log - Failed to navigated to home page: FAIL
+[TestNG-tests-2] INFO Log - Home page validation successful
+[TestNG-tests-1] INFO Log - Failed to navigated to home page: FAIL
+[TestNG-tests-2] INFO Log - The expected text of personal details page is: Personal Details
+[TestNG-tests-1] INFO Log - The expected login page text is: LOGIN Panel
+[TestNG-tests-1] INFO Log - The actual login page text is: LOGIN Panel
+[TestNG-tests-1] INFO Log - Successfully navigated to Login Page: PASS
+[TestNG-tests-1] INFO Log - The expected home page text is: Dashboard
+[TestNG-tests-1] INFO Log - The actual home page text is: Dashboard
+[TestNG-tests-1] INFO Log - Successfully Navigated to Home Page: PASS
+[main] INFO Log - Login functionality successful
+[main] INFO Log - The expected home page text is: Dashboard
+[main] INFO Log - The actual home page text is: Dashboard
+[main] INFO Log - Successfully Navigated to Home Page: PASS
+[main] INFO Log - Home page validation successful
+[main] INFO Log -  PIM menu validation successful
+[main] INFO Log - AddEmployee validation successful
+[main] INFO Log - The employee is: 0134
+[main] INFO Log - Adding new employee successful
+[main] INFO Log - The expected text of personal details page is: Personal Details
+[main] INFO Log - The actual text of personal details page is: Personal Details
+[main] INFO Log - Successfully Navigated to personal details page: PASS
+[main] INFO Log - Personal details page validation page successful
+[main] INFO Log - The expected login page text is: LOGIN Panel
+[main] INFO Log - The actual login page text is: LOGIN Panel
+[main] INFO Log - Successfully navigated to Login Page: PASS
+[main] INFO Log - The expected home page text is: Dashboard
+[main] INFO Log - The actual home page text is: Dashboard
+[main] INFO Log - Successfully Navigated to Home Page: PASS
+[main] INFO Log - Login functionality successful
+[main] INFO Log - The expected home page text is: Dashboard
+[main] INFO Log - The actual home page text is: Dashboard
+[main] INFO Log - Successfully Navigated to Home Page: PASS
+[main] INFO Log - Home page validation successful
+[main] INFO Log -  PIM menu validation successful
+[main] INFO Log - AddEmployee validation successful
+[main] INFO Log - The employee is: 0135
+[main] INFO Log - Adding new employee successful
+[main] INFO Log - The expected text of personal details page is: Personal Details
+[main] INFO Log - The actual text of personal details page is: Personal Details
+[main] INFO Log - Successfully Navigated to personal details page: PASS
+[main] INFO Log - Personal details page validation page successful
+[TestNG-tests-1] INFO Log - The expected login page text is: LOGIN Panel
+[TestNG-tests-1] INFO Log - The actual login page text is: LOGIN Panel
+[TestNG-tests-1] INFO Log - Successfully navigated to Login Page: PASS
+[TestNG-tests-2] INFO Log - Login functionality successful
+[TestNG-tests-2] INFO Log - The expected home page text is: Dashboard
+[TestNG-tests-1] INFO Log - The expected home page text is: Dashboard
+[TestNG-tests-2] INFO Log - The actual home page text is: Dashboard
+[TestNG-tests-2] INFO Log - Successfully Navigated to Home Page: PASS
+[TestNG-tests-2] INFO Log - Home page validation successful
+[TestNG-tests-1] INFO Log - The actual home page text is: Dashboard
+[TestNG-tests-1] INFO Log - Successfully Navigated to Home Page: PASS
+[TestNG-tests-2] INFO Log -  PIM menu validation successful
+[TestNG-tests-2] INFO Log - The expected text of personal details page is: Personal Details
+[TestNG-tests-1] INFO Log - The expected login page text is: LOGIN Panel
+[TestNG-tests-1] INFO Log - The actual login page text is: LOGIN Panel
+[TestNG-tests-1] INFO Log - Successfully navigated to Login Page: PASS
+[TestNG-tests-2] INFO Log - Login functionality successful
+[TestNG-tests-2] INFO Log - The expected home page text is: Dashboard
+[TestNG-tests-1] INFO Log - The expected home page text is: Dashboard
+[TestNG-tests-2] INFO Log - The actual home page text is: Dashboard
+[TestNG-tests-1] INFO Log - The actual home page text is: Dashboard
+[TestNG-tests-2] INFO Log - Successfully Navigated to Home Page: PASS
+[TestNG-tests-1] INFO Log - Successfully Navigated to Home Page: PASS
+[TestNG-tests-2] INFO Log - Home page validation successful
+[TestNG-tests-2] INFO Log -  PIM menu validation successful
+[TestNG-tests-2] INFO Log - The expected text of personal details page is: Personal Details
+[main] INFO Log - The expected login page text is: LOGIN Panel
+[main] INFO Log - The actual login page text is: LOGIN Panel
+[main] INFO Log - Successfully navigated to Login Page: PASS
+[main] INFO Log - The expected home page text is: Dashboard
+[main] INFO Log - The actual home page text is: Dashboard
+[main] INFO Log - Successfully Navigated to Home Page: PASS
+[main] INFO Log - Login functionality successful
+[main] INFO Log - The expected home page text is: Dashboard
+[main] INFO Log - The actual home page text is: Dashboard
+[main] INFO Log - Successfully Navigated to Home Page: PASS
+[main] INFO Log - Home page validation successful
+[main] INFO Log -  PIM menu validation successful
+[main] INFO Log - AddEmployee validation successful
+[main] INFO Log - The employee is: 0136
+[main] INFO Log - Adding new employee successful
+[main] INFO Log - The expected text of personal details page is: Personal Details
+[main] INFO Log - The actual text of personal details page is: Personal Details
+[main] INFO Log - Successfully Navigated to personal details page: PASS
+[main] INFO Log - Personal details page validation page successful
+[main] INFO Log - The expected login page text is: LOGIN Panel
+[main] INFO Log - The actual login page text is: LOGIN Panel
+[main] INFO Log - Successfully navigated to Login Page: PASS
+[main] INFO Log - The expected home page text is: Dashboard
+[main] INFO Log - The actual home page text is: Dashboard
+[main] INFO Log - Successfully Navigated to Home Page: PASS
+[main] INFO Log - Login functionality successful
+[main] INFO Log - The expected home page text is: Dashboard
+[main] INFO Log - The actual home page text is: Dashboard
+[main] INFO Log - Successfully Navigated to Home Page: PASS
+[main] INFO Log - Home page validation successful
+[main] INFO Log -  PIM menu validation successful
+[main] INFO Log - AddEmployee validation successful
+[main] INFO Log - The employee is: 0137
+[main] INFO Log - Adding new employee successful
+[main] INFO Log - The expected text of personal details page is: Personal Details
+[main] INFO Log - The actual text of personal details page is: Personal Details
+[main] INFO Log - Successfully Navigated to personal details page: PASS
+[main] INFO Log - Personal details page validation page successful
+[main] INFO Log - The expected login page text is: LOGIN Panel
+[main] INFO Log - The actual login page text is: LOGIN Panel
+[main] INFO Log - Successfully navigated to Login Page: PASS
+[main] INFO Log - The expected home page text is: Dashboard
+[main] INFO Log - The actual home page text is: Dashboard
+[main] INFO Log - Successfully Navigated to Home Page: PASS
+[main] INFO Log - Login functionality successful
+[main] INFO Log - The expected home page text is: Dashboard
+[main] INFO Log - The actual home page text is: Dashboard
+[main] INFO Log - Successfully Navigated to Home Page: PASS
+[main] INFO Log - Home page validation successful
+[main] INFO Log -  PIM menu validation successful
+[main] INFO Log - AddEmployee validation successful
+[main] INFO Log - The employee is: 0138
+[main] INFO Log - Adding new employee successful
+[main] INFO Log - The expected text of personal details page is: Personal Details
+[main] INFO Log - The actual text of personal details page is: Personal Details
+[main] INFO Log - Successfully Navigated to personal details page: PASS
+[main] INFO Log - Personal details page validation page successful
+[main] INFO Log - Login functionality successful
+[main] INFO Log - The expected home page text is: Dashboard
+[main] INFO Log - The actual home page text is: Dashboard
+[main] INFO Log - Successfully Navigated to Home Page: PASS
+[main] INFO Log - Home page validation successful
+[main] INFO Log -  PIM menu validation successful
+[main] INFO Log - AddEmployee validation successful
+[main] INFO Log - The employee is: 0139
+[main] INFO Log - Adding new employee successful
+[main] INFO Log - The expected text of personal details page is: Personal Details
+[main] INFO Log - The actual text of personal details page is: Personal Details
+[main] INFO Log - Successfully Navigated to personal details page: PASS
+[main] INFO Log - Personal details page validation page successful
+[main] INFO Log - Login functionality successful
+[main] INFO Log - The expected home page text is: Dashboard
+[main] INFO Log - The actual home page text is: Dashboard
+[main] INFO Log - Successfully Navigated to Home Page: PASS
+[main] INFO Log - Home page validation successful
+[main] INFO Log -  PIM menu validation successful
+[main] INFO Log - AddEmployee validation successful
+[main] INFO Log - The employee is: 0140
+[main] INFO Log - Adding new employee successful
+[main] INFO Log - The expected text of personal details page is: Personal Details
+[main] INFO Log - The actual text of personal details page is: Personal Details
+[main] INFO Log - Successfully Navigated to personal details page: PASS
+[main] INFO Log - Personal details page validation page successful
+[main] INFO Log - Login functionality successful
+[main] INFO Log - The expected home page text is: Dashboard
+[main] INFO Log - The actual home page text is: Dashboard
+[main] INFO Log - Successfully Navigated to Home Page: PASS
+[main] INFO Log - Home page validation successful
+[main] INFO Log -  PIM menu validation successful
+[main] INFO Log - AddEmployee validation successful
+[main] INFO Log - The employee is: 0141
+[main] INFO Log - Adding new employee successful
+[main] INFO Log - The expected text of personal details page is: Personal Details
+[main] INFO Log - The actual text of personal details page is: Personal Details
+[main] INFO Log - Successfully Navigated to personal details page: PASS
+[main] INFO Log - Personal details page validation page successful
+[main] INFO Log - Login functionality successful
+[main] INFO Log - The expected home page text is: Dashboard
+[main] INFO Log - The actual home page text is: Dashboard
+[main] INFO Log - Successfully Navigated to Home Page: PASS
+[main] INFO Log - Home page validation successful
+[main] INFO Log -  PIM menu validation successful
+[main] INFO Log - AddEmployee validation successful
+[main] INFO Log - The employee is: 0142
+[main] INFO Log - Adding new employee successful
+[main] INFO Log - The expected text of personal details page is: Personal Details
+[main] INFO Log - The actual text of personal details page is: Personal Details
+[main] INFO Log - Successfully Navigated to personal details page: PASS
+[main] INFO Log - Personal details page validation page successful
+[main] INFO Log - Login functionality successful
+[main] INFO Log - The expected home page text is: Dashboard
+[main] INFO Log - The actual home page text is: Dashboard
+[main] INFO Log - Successfully Navigated to Home Page: PASS
+[main] INFO Log - Home page validation successful
+[main] INFO Log -  PIM menu validation successful
+[main] INFO Log - AddEmployee validation successful
+[main] INFO Log - The employee is: 0143
+[main] INFO Log - Adding new employee successful
+[main] INFO Log - The expected text of personal details page is: Personal Details
+[main] INFO Log - The actual text of personal details page is: Personal Details
+[main] INFO Log - Successfully Navigated to personal details page: PASS
+[main] INFO Log - Personal details page validation page successful
+[main] INFO Log - The expected login page text is: LOGIN Panel
+[main] INFO Log - The actual login page text is: LOGIN Panel
+[main] INFO Log - Successfully navigated to Login Page: PASS
+[main] INFO Log - The expected home page text is: Dashboard
+[main] INFO Log - The actual home page text is: Dashboard
+[main] INFO Log - Successfully Navigated to Home Page: PASS
+[main] INFO Log - Login functionality successful
+[main] INFO Log - The expected home page text is: Dashboard
+[main] INFO Log - The actual home page text is: Dashboard
+[main] INFO Log - Successfully Navigated to Home Page: PASS
+[main] INFO Log - Home page validation successful
+[main] INFO Log -  PIM menu validation successful
+[main] INFO Log - AddEmployee validation successful
+[main] INFO Log - The employee is: 0144
+[main] INFO Log - Adding new employee successful
+[main] INFO Log - The expected text of personal details page is: Personal Details
+[main] INFO Log - The actual text of personal details page is: Personal Details
+[main] INFO Log - Successfully Navigated to personal details page: PASS
+[main] INFO Log - Personal details page validation page successful
+[TestNG-tests-1] INFO Log - The expected login page text is: LOGIN Panel
+[TestNG-tests-1] INFO Log - The actual login page text is: LOGIN Panel
+[TestNG-tests-1] INFO Log - Successfully navigated to Login Page: PASS
+[TestNG-tests-2] INFO Log - Login functionality successful
+[TestNG-tests-2] INFO Log - Failed to navigated to home page: FAIL
+[TestNG-tests-2] INFO Log - Home page validation successful
+[TestNG-tests-1] INFO Log - Failed to navigated to home page: FAIL
+[TestNG-tests-2] INFO Log - The expected text of personal details page is: Personal Details
+[TestNG-tests-1] INFO Log - The expected login page text is: LOGIN Panel
+[TestNG-tests-2] INFO Log - Login functionality successful
+[TestNG-tests-2] INFO Log - The expected home page text is: Dashboard
+[TestNG-tests-2] INFO Log - The expected text of personal details page is: Personal Details
+[TestNG-tests-1] INFO Log - The expected login page text is: LOGIN Panel
+[TestNG-tests-1] INFO Log - The actual login page text is: LOGIN Panel
+[TestNG-tests-1] INFO Log - Successfully navigated to Login Page: PASS
+[TestNG-tests-2] INFO Log - Login functionality successful
+[TestNG-tests-2] INFO Log - The expected home page text is: Dashboard
+[TestNG-tests-1] INFO Log - The expected home page text is: Dashboard
+[TestNG-tests-2] INFO Log - The actual home page text is: Dashboard
+[TestNG-tests-2] INFO Log - Successfully Navigated to Home Page: PASS
+[TestNG-tests-2] INFO Log - Home page validation successful
+[TestNG-tests-1] INFO Log - The actual home page text is: Dashboard
+[TestNG-tests-1] INFO Log - Successfully Navigated to Home Page: PASS
+[TestNG-tests-2] INFO Log -  PIM menu validation successful
+[TestNG-tests-2] INFO Log - The expected text of personal details page is: Personal Details
+[main] INFO Log - The expected login page text is: LOGIN Panel
+[main] INFO Log - The actual login page text is: LOGIN Panel
+[main] INFO Log - The expected login page text is: LOGN Panel
+[main] INFO Log - The actual login page text is: LOGIN Panel
+[main] INFO Log - The expected login page text is: LOGN Panel
+[main] INFO Log - The actual login page text is: LOGIN Panel
+[main] INFO Log - The expected home page text is: Dashboard
+[main] INFO Log - The actual home page text is: Dashboard
+[main] INFO Log - Successfully Navigated to Home Page: PASS
+[main] INFO Log - The expected login page text is: LOGN Panel
+[main] INFO Log - The actual login page text is: LOGIN Panel
+[main] INFO Log - The expected home page text is: Dashboard
+[main] INFO Log - The actual home page text is: Dashboard
+[main] INFO Log - Successfully Navigated to Home Page: PASS
+[main] INFO Log - The expected login page text is: LOGN Panel
+[main] INFO Log - The actual login page text is: LOGIN Panel
+[main] INFO Log - The expected home page text is: Dashboard
+[main] INFO Log - The actual home page text is: Dashboard
+[main] INFO Log - Successfully Navigated to Home Page: PASS
+[main] INFO Log - The expected login page text is: LOGIN Panel
+[main] INFO Log - The actual login page text is: LOGIN Panel
+[main] INFO Log - The expected home page text is: Dashboard
+[main] INFO Log - The actual home page text is: Dashboard
+[main] INFO Log - Successfully Navigated to Home Page: PASS
+[main] INFO Log - The expected login page text is: LOGN Panel
+[main] INFO Log - The actual login page text is: LOGIN Panel
+[main] INFO Log - Failed to navigate to Login Page: FAIL
+[main] INFO Log - The expected login page text is: LOGN Panel
+[main] INFO Log - The actual login page text is: LOGIN Panel
+[main] INFO Log - Failed to navigate to Login Page: FAIL
+[main] INFO Log - The expected home page text is: Dashboard
+[main] INFO Log - The actual home page text is: Dashboard
+[main] INFO Log - Successfully Navigated to Home Page: PASS
+[main] INFO Log - Login functionality successful
+[main] INFO Log - The expected home page text is: Dashboard
+[main] INFO Log - The actual home page text is: Dashboard
+[main] INFO Log - Successfully Navigated to Home Page: PASS
+[main] INFO Log - Home page validation successful
+[main] INFO Log -  PIM menu validation successful
+[main] INFO Log - AddEmployee validation successful
+[main] INFO Log - The employee is: 0145
+[main] INFO Log - Adding new employee successful
+[main] INFO Log - The expected text of personal details page is: Personal Details
+[main] INFO Log - The actual text of personal details page is: Personal Details
+[main] INFO Log - Successfully Navigated to personal details page: PASS
+[main] INFO Log - Personal details page validation page successful
+[main] INFO Log - The employee is: 0147
+[main] INFO Log - The expected text of personal details page is: Personal Details
+[main] INFO Log - The actual text of personal details page is: Personal Details
+[main] INFO Log - Successfully Navigated to personal details page: PASS
+[main] INFO Log - Personal details page validation page successful
+[main] INFO Log - First name matches
+[main] INFO Log - Middle name matches
+[main] INFO Log - UserName: Mahesh20, Password: Mahesh@20
+[main] INFO Log - Expected first name is: Mahi, Expected middle name is: Mahi, Expected last name is: Reddy
+[main] INFO Log - Expected employee ID is: 0148
+[main] INFO Log - The expected text of personal details page is: Personal Details
+[main] INFO Log - The actual text of personal details page is: Personal Details
+[main] INFO Log - Successfully Navigated to personal details page: PASS
+[main] INFO Log - Personal details page validation page successful
+[main] INFO Log - First name matches
+[main] INFO Log - Middle name matches
+[main] INFO Log - Actual first name is: Mahi, Actual middle name is: Mahi, Actual last name is: Reddy
+[main] INFO Log - Actual employee ID is: 0148
+[main] INFO Log - UserName: Mahesh20, Password: Mahesh@20
+[main] INFO Log - Expected first name is: Mahi, Expected middle name is: Mahi, Expected last name is: Reddy
+[main] INFO Log - Expected employee ID is: 0149
+[main] INFO Log - The expected text of personal details page is: Personal Details
+[main] INFO Log - The actual text of personal details page is: Personal Details
+[main] INFO Log - Successfully Navigated to personal details page: PASS
+[main] INFO Log - Personal details page validation successful
+[main] INFO Log - First name matches
+[main] INFO Log - Middle name matches
+[main] INFO Log - Actual first name is: Mahi, Actual middle name is: Mahi, Actual last name is: Reddy
+[main] INFO Log - Actual employee ID is: 0149
+[main] INFO Log - The expected login page text is: LOGN Panel
+[main] INFO Log - The actual login page text is: LOGIN Panel
+[main] INFO Log - Failed to navigate to Login Page: FAIL
+[main] INFO Log - The expected text of employee list page is: Employee Information
+[main] INFO Log - The expected login page text is: LOGIN Panel
+[main] INFO Log - The actual login page text is: LOGIN Panel
+[main] INFO Log - Successfully navigated to Login Page: PASS
+[main] INFO Log - The expected text of employee list page is: Employee Information
+[main] INFO Log - UserName: Mahesh20, Password: Mahesh@20
+[main] INFO Log - Expected first name is: Mahi, Expected middle name is: Mahi, Expected last name is: Reddy
+[main] INFO Log - Expected employee ID is: 0150
+[main] INFO Log - The expected text of personal details page is: Personal Details
+[main] INFO Log - The actual text of personal details page is: Personal Details
+[main] INFO Log - Successfully Navigated to personal details page: PASS
+[main] INFO Log - Personal details page validation successful
+[main] INFO Log - First name matches
+[main] INFO Log - Middle name matches
+[main] INFO Log - Actual first name is: Mahi, Actual middle name is: Mahi, Actual last name is: Reddy
+[main] INFO Log - Actual employee ID is: 0150
+[main] INFO Log - The expected login page text is: LOGIN Panel
+[main] INFO Log - The actual login page text is: LOGIN Panel
+[main] INFO Log - Successfully navigated to Login Page: PASS
+[main] INFO Log - UserName: Mahesh20, Password: Mahesh@20
+[main] INFO Log - The expected text of employee list page is: Employee Information
+[main] INFO Log - UserName: Mahesh20, Password: Mahesh@20
+[main] INFO Log - The expected text of employee list page is: Employee Information
+[main] INFO Log - The actual login page text is: Employee Information
+Employee Name
+Id
+Employment Status
+All
+Include
+Current Employees Only
+Current and Past Employees
+Past Employees Only
+Supervisor Name
+Job Title
+All
+Sub Unit
+All
+>
+[main] INFO Log - Failed to navigate to Employee List Page
+[main] INFO Log - UserName: Mahesh20, Password: Mahesh@20
+[main] INFO Log - UserName: Mahesh20, Password: Mahesh@20
+[main] INFO Log - UserName: Mahesh20, Password: Mahesh@20
+[main] INFO Log - The expected leave page text is: Leave Period
+[main] INFO Log - The expected leave page text is: Leave Period
+[main] INFO Log - UserName: Mahesh20, Password: Mahesh@20
+[main] INFO Log - 0 - -- Month --
+[main] INFO Log - 1 - January
+[main] INFO Log - 2 - February
+[main] INFO Log - 3 - March
+[main] INFO Log - 4 - April
+[main] INFO Log - 5 - May
+[main] INFO Log - 6 - June
+[main] INFO Log - 7 - July
+[main] INFO Log - 8 - August
+[main] INFO Log - 9 - September
+[main] INFO Log - 10 - October
+[main] INFO Log - 11 - November
+[main] INFO Log - 12 - December
+[main] INFO Log - The expected leave page text is: Leave Period
+[main] INFO Log - UserName: Mahesh20, Password: Mahesh@20
+[main] INFO Log - 0 - -- Month --
+[main] INFO Log - 1 - January
+[main] INFO Log - 2 - February
+[main] INFO Log - 3 - March
+[main] INFO Log - 4 - April
+[main] INFO Log - 5 - May
+[main] INFO Log - 6 - June
+[main] INFO Log - 7 - July
+[main] INFO Log - 8 - August
+[main] INFO Log - 9 - September
+[main] INFO Log - 10 - October
+[main] INFO Log - 11 - November
+[main] INFO Log - 12 - December
+[main] INFO Log - The expected leave page text is: Leave Period
+[main] INFO Log - UserName: Mahesh20, Password: Mahesh@20
+[main] INFO Log - 0 - -- Month --
+[main] INFO Log - 1 - January
+[main] INFO Log - 2 - February
+[main] INFO Log - 3 - March
+[main] INFO Log - 4 - April
+[main] INFO Log - 5 - May
+[main] INFO Log - 6 - June
+[main] INFO Log - 7 - July
+[main] INFO Log - 8 - August
+[main] INFO Log - 9 - September
+[main] INFO Log - 10 - October
+[main] INFO Log - 11 - November
+[main] INFO Log - 12 - December
+[main] INFO Log - UserName: Mahesh20, Password: Mahesh@20
+[main] INFO Log - 0 - -- Month --
+[main] INFO Log - 1 - January
+[main] INFO Log - 2 - February
+[main] INFO Log - 3 - March
+[main] INFO Log - 4 - April
+[main] INFO Log - 5 - May
+[main] INFO Log - 6 - June
+[main] INFO Log - 7 - July
+[main] INFO Log - 8 - August
+[main] INFO Log - 9 - September
+[main] INFO Log - 10 - October
+[main] INFO Log - 11 - November
+[main] INFO Log - 12 - December
+[main] INFO Log - UserName: Mahesh20, Password: Mahesh@20
+[main] INFO Log - 0 - -- Month --
+[main] INFO Log - 1 - January
+[main] INFO Log - 2 - February
+[main] INFO Log - 3 - March
+[main] INFO Log - 4 - April
+[main] INFO Log - 5 - May
+[main] INFO Log - 6 - June
+[main] INFO Log - 7 - July
+[main] INFO Log - 8 - August
+[main] INFO Log - 9 - September
+[main] INFO Log - 10 - October
+[main] INFO Log - 11 - November
+[main] INFO Log - 12 - December
+[main] INFO Log - UserName: Mahesh20, Password: Mahesh@20
+[main] INFO Log - 0 - -- Month --
+[main] INFO Log - 1 - January
+[main] INFO Log - 2 - February
+[main] INFO Log - 3 - March
+[main] INFO Log - 4 - April
+[main] INFO Log - 5 - May
+[main] INFO Log - 6 - June
+[main] INFO Log - 7 - July
+[main] INFO Log - 8 - August
+[main] INFO Log - 9 - September
+[main] INFO Log - 10 - October
+[main] INFO Log - 11 - November
+[main] INFO Log - 12 - December
+[main] INFO Log - UserName: Mahesh20, Password: Mahesh@20
+[main] INFO Log - 0 - -- Month --
+[main] INFO Log - 1 - January
+[main] INFO Log - 2 - February
+[main] INFO Log - 3 - March
+[main] INFO Log - 4 - April
+[main] INFO Log - 5 - May
+[main] INFO Log - 6 - June
+[main] INFO Log - 7 - July
+[main] INFO Log - 8 - August
+[main] INFO Log - 9 - September
+[main] INFO Log - 10 - October
+[main] INFO Log - 11 - November
+[main] INFO Log - 12 - December
+[main] INFO Log - UserName: Mahesh20, Password: Mahesh@20
+[main] INFO Log - 0 - -- Month --
+[main] INFO Log - 1 - January
+[main] INFO Log - 2 - February
+[main] INFO Log - 3 - March
+[main] INFO Log - 4 - April
+[main] INFO Log - 5 - May
+[main] INFO Log - 6 - June
+[main] INFO Log - 7 - July
+[main] INFO Log - 8 - August
+[main] INFO Log - 9 - September
+[main] INFO Log - 10 - October
+[main] INFO Log - 11 - November
+[main] INFO Log - 12 - December
+[main] INFO Log - UserName: Mahesh20, Password: Mahesh@20
+[main] INFO Log - 0 - -- Month --
+[main] INFO Log - 1 - January
+[main] INFO Log - 2 - February
+[main] INFO Log - 3 - March
+[main] INFO Log - 4 - April
+[main] INFO Log - 5 - May
+[main] INFO Log - 6 - June
+[main] INFO Log - 7 - July
+[main] INFO Log - 8 - August
+[main] INFO Log - 9 - September
+[main] INFO Log - 10 - October
+[main] INFO Log - 11 - November
+[main] INFO Log - 12 - December
+[main] INFO Log - UserName: Mahesh20, Password: Mahesh@20
+[main] INFO Log - 0 - -- Month --
+[main] INFO Log - 1 - January
+[main] INFO Log - 2 - February
+[main] INFO Log - 3 - March
+[main] INFO Log - 4 - April
+[main] INFO Log - 5 - May
+[main] INFO Log - 6 - June
+[main] INFO Log - 7 - July
+[main] INFO Log - 8 - August
+[main] INFO Log - 9 - September
+[main] INFO Log - 10 - October
+[main] INFO Log - 11 - November
+[main] INFO Log - 12 - December
+[main] INFO Log - UserName: Mahesh20, Password: Mahesh@20
+[main] INFO Log - 0 - -- Month --
+[main] INFO Log - 1 - January
+[main] INFO Log - 2 - February
+[main] INFO Log - 3 - March
+[main] INFO Log - 4 - April
+[main] INFO Log - 5 - May
+[main] INFO Log - 6 - June
+[main] INFO Log - 7 - July
+[main] INFO Log - 8 - August
+[main] INFO Log - 9 - September
+[main] INFO Log - 10 - October
+[main] INFO Log - 11 - November
+[main] INFO Log - 12 - December
+[main] INFO Log - UserName: Mahesh20, Password: Mahesh@20
+[main] INFO Log - UserName: Mahesh20, Password: Mahesh@20
+[main] INFO Log - 0 - -- Month --
+[main] INFO Log - 1 - January
+[main] INFO Log - 2 - February
+[main] INFO Log - 3 - March
+[main] INFO Log - 4 - April
+[main] INFO Log - 5 - May
+[main] INFO Log - 6 - June
+[main] INFO Log - 7 - July
+[main] INFO Log - 8 - August
+[main] INFO Log - 9 - September
+[main] INFO Log - 10 - October
+[main] INFO Log - 11 - November
+[main] INFO Log - 12 - December
+[main] INFO Log - UserName: Mahesh20, Password: Mahesh@20
+[main] INFO Log - 0 - -- Month --
+[main] INFO Log - 1 - January
+[main] INFO Log - 2 - February
+[main] INFO Log - 3 - March
+[main] INFO Log - 4 - April
+[main] INFO Log - 5 - May
+[main] INFO Log - 6 - June
+[main] INFO Log - 7 - July
+[main] INFO Log - 8 - August
+[main] INFO Log - 9 - September
+[main] INFO Log - 10 - October
+[main] INFO Log - 11 - November
+[main] INFO Log - 12 - December
+[main] INFO Log - UserName: Mahesh20, Password: Mahesh@20
+[main] INFO Log - 0 - -- Month --
+[main] INFO Log - 1 - January
+[main] INFO Log - 2 - February
+[main] INFO Log - 3 - March
+[main] INFO Log - 4 - April
+[main] INFO Log - 5 - May
+[main] INFO Log - 6 - June
+[main] INFO Log - 7 - July
+[main] INFO Log - 8 - August
+[main] INFO Log - 9 - September
+[main] INFO Log - 10 - October
+[main] INFO Log - 11 - November
+[main] INFO Log - 12 - December
+[main] INFO Log - UserName: Mahesh20, Password: Mahesh@20
+[main] INFO Log - 0 - -- Month --
+[main] INFO Log - 1 - January
+[main] INFO Log - 2 - February
+[main] INFO Log - 3 - March
+[main] INFO Log - 4 - April
+[main] INFO Log - 5 - May
+[main] INFO Log - 6 - June
+[main] INFO Log - 7 - July
+[main] INFO Log - 8 - August
+[main] INFO Log - 9 - September
+[main] INFO Log - 10 - October
+[main] INFO Log - 11 - November
+[main] INFO Log - 12 - December
+[main] INFO Log - UserName: Mahesh20, Password: Mahesh@20
+[main] INFO Log - -- Date --
+[main] INFO Log - 0 - -- Month --
+[main] INFO Log - 1 - January
+[main] INFO Log - 2 - February
+[main] INFO Log - 3 - March
+[main] INFO Log - 4 - April
+[main] INFO Log - 5 - May
+[main] INFO Log - 6 - June
+[main] INFO Log - 7 - July
+[main] INFO Log - 8 - August
+[main] INFO Log - 9 - September
+[main] INFO Log - 10 - October
+[main] INFO Log - 11 - November
+[main] INFO Log - 12 - December
+[main] INFO Log - UserName: Mahesh20, Password: Mahesh@20
+[main] INFO Log - -- Date --
+[main] INFO Log - 0 - -- Month --
+[main] INFO Log - 1 - January
+[main] INFO Log - 2 - February
+[main] INFO Log - 3 - March
+[main] INFO Log - 4 - April
+[main] INFO Log - 5 - May
+[main] INFO Log - 6 - June
+[main] INFO Log - 7 - July
+[main] INFO Log - 8 - August
+[main] INFO Log - 9 - September
+[main] INFO Log - 10 - October
+[main] INFO Log - 11 - November
+[main] INFO Log - 12 - December
+[main] INFO Log - UserName: Mahesh20, Password: Mahesh@20
+[main] INFO Log - 0 - -- Month --
+[main] INFO Log - 1 - January
+[main] INFO Log - 2 - February
+[main] INFO Log - 3 - March
+[main] INFO Log - 4 - April
+[main] INFO Log - 5 - May
+[main] INFO Log - 6 - June
+[main] INFO Log - 7 - July
+[main] INFO Log - 8 - August
+[main] INFO Log - 9 - September
+[main] INFO Log - 10 - October
+[main] INFO Log - 11 - November
+[main] INFO Log - 12 - December
+[main] INFO Log - UserName: Mahesh20, Password: Mahesh@20
+[main] INFO Log - 0 - -- Month --
+[main] INFO Log - 1 - January
+[main] INFO Log - 2 - February
+[main] INFO Log - 3 - March
+[main] INFO Log - 4 - April
+[main] INFO Log - 5 - May
+[main] INFO Log - 6 - June
+[main] INFO Log - 7 - July
+[main] INFO Log - 8 - August
+[main] INFO Log - 9 - September
+[main] INFO Log - 10 - October
+[main] INFO Log - 11 - November
+[main] INFO Log - 12 - December
+[main] INFO Log - UserName: Mahesh20, Password: Mahesh@20
+[main] INFO Log - -- Month --
+[main] INFO Log - January
+[main] INFO Log - February
+[main] INFO Log - March
+[main] INFO Log - April
+[main] INFO Log - May
+[main] INFO Log - June
+[main] INFO Log - July
+[main] INFO Log - August
+[main] INFO Log - September
+[main] INFO Log - October
+[main] INFO Log - November
+[main] INFO Log - December
+[main] INFO Log - UserName: Mahesh20, Password: Mahesh@20
+[main] INFO Log - The total no of months in the list is: 13
+[main] INFO Log - -- Month --
+[main] INFO Log - January
+[main] INFO Log - February
+[main] INFO Log - March
+[main] INFO Log - April
+[main] INFO Log - May
+[main] INFO Log - June
+[main] INFO Log - July
+[main] INFO Log - August
+[main] INFO Log - September
+[main] INFO Log - October
+[main] INFO Log - November
+[main] INFO Log - December
